@@ -1,0 +1,5147 @@
+.hw   na
+df   linking *particle, used to connect a noun with its modifier
+il   I dankolo na tatotao. |The big man
+.hw   n/a'- < >
+df   one who does something; derived from causative prefix %na'- |plus
+  primary stress
+.hw   na' < >
+df   *food classifier, *edibles--classifier for
+il   Ha kanno' i na'-hu. |He ate my food
+il   Ha kanno' i na'-hu guihan. |He ate my fish
+.hw   na'- < >
+df   *causative prefix, *cause, *make (someone do something), *let
+  (someone do something); used with class 1 and class 2 words
+cf   muna'-, nina'-
+il   Na'fakmata si Juan sa' esta oran eskuela. |Make John wake up
+  because it is time for school
+il   Na'gasgas i lamasa. |Clean the table
+il   Hu na'draiba si Pete ni kareta. |I let Pete drive the car
+.hw   na' oga'an
+wc   2
+df   *meal--morning, *breakfast
+cf   amotsa
+.hw   na' talo'ani
+wc   2
+df   *dinner, main meal of the day, *lunch
+cf   amotsa
+.hw   na'/adanche < >
+wc   1
+df   *correct, set right, straighten out, make right, fit together
+  properly
+.hw   na'adespatta
+wc   2
+df   take *apart, *separate, *disconnect, *disunite, *split, *divorce,
+  *disengage
+cf   sipara
+il   I makinista ha na'adespatta i makinan butdosa. |The mechanic took
+  the bulldozer's engine apart
+.hw   na'adotgan
+wc   2
+df   *pierce through, *stick through, run through
+.hw   na'afa'maolek
+wc   1
+df   *reconcile, *atone, expiate
+.hw   na'/agaole
+wc   1
+df   cross *legs
+.hw   na'/agihilu'i
+wc   1
+df   *head up, lay on top of each other
+al   na'agitilu'i, na'age'hilu'i
+.hw   na'/agitilu'i
+wc   1
+df   *heap up, lay on top of each other
+al   na'agihilu'i
+.hw   na'ahust/ao
+wc   2
+df   *adjust, set right, put in order
+cf   na'tunas
+.hw   na'an
+wc   2
+df   *name
+.hw   na'anakko'
+wc   2
+df   *lengthen, *elongate, *extend, cause (something) to be long
+cf   na'apmam
+.hw   na'ancho
+wc   2
+df   *widen, *broaden, cause to be wide
+cf   ancho, na'lafedda', fedda'
+.hw   na'annok < >
+wc   1
+df   *view--bring into, *reveal, unwrap or uncover, *expose
+.hw   na'/apalo'po' < >
+wc   1
+df   *stack up, pile up in a stack
+.hw   na'/aplacha' < >
+wc   1
+df   *mar
+.hw   na'apmam
+wc   2
+df   *prolong, *lengthen--time, *sustain
+.hw   na'apo' < >
+wc   1
+df   *support, offer hand for support
+cf   apo'
+.hw   na'asgon
+wc   1
+df   dirty, make impure, *fog up
+.hw   na'atarant/ao
+wc   1
+df   *disunite, set at variance
+cf   atarantao
+.hw   na'atborut/ao
+wc   1
+df   *demoralize; *corrupt
+cf   atborutao
+.hw   na'atok < >
+wc   1
+df   *hide, *conceal, *secrete, make secret
+cf   na'na', disimula
+.hw   na'ayao < >
+wc   2
+df   *lend, grant (something) to another for temporary use, opposite
+  of borrow; lit; cause to borrow
+il   Hu na'ayao si Pedro ni salape'. |I lent the money to Pedro
+.hw   nabaha
+wc   2
+df   *razor, *pocketknife, small *knife
+cf   hinabaha
+.hw   na'balansa
+wc   1
+df   *balance debt
+.hw   nabegad/ot
+wc   2
+df   *navigator
+.hw   na'beste
+wc   1
+df   *garnish, *adorn
+cf   beste
+.hw   Nabid/at
+wc   2
+df   *christmas
+cf   pasgua
+il   Felis Nabidat. |Merry Christmas
+.hw   na'boka
+wc   1
+df   *feed
+cf   boka
+.hw   n/a'brabu < >
+wc   2
+df   *strengthening, *enlivening
+.hw   na'bubu
+wc   1
+df   *anger, *vex, *infuriate
+cf   bubu
+.hw   n/a'bubu < >
+wc   2
+df   *antagonist, unpleasant person, one who antagonizes
+.hw   na'bula
+wc   1
+df   *replenish
+cf   bula
+.hw   n/a'chaddek < >
+wc   2
+df   *expediter, one who hurrys things
+.hw   na'chaddek < >
+wc   1
+df   *hurry, *hustle
+cf   chaddek, alula
+.hw   na'chalek
+wc   2
+df   cause to *laugh
+il   Hu na'chalek i ma'estro-ku. |I made my teacher laugh
+.hw   n/a'chalek < >
+wc   2
+df   *funny, *humorous, *laughable
+il   Na'chalek hao na taotao. |You are a funny man
+.hw   n/a'chatsaga < >
+wc   2
+df   *pest, one who bothers people, *nuisance
+.hw   na'chatsaga < >
+wc   1
+df   *annoy, *bother
+.hw   na'chetnudan
+wc   1
+df   *wound, *injure, *hurt, *impregnate
+.hw   na'chetton
+wc   1
+df   *connect, join, bring together
+.hw   n/a'chetton < >
+wc   2
+df   *connector; anything that joins two things together
+.hw   na'chilong
+wc   1
+df   *equalize, arrange proportionately
+cf   chilong
+.hw   nada mas
+df   *nothing else
+cf   taya'
+.hw   na'dankolo
+wc   1
+df   *exaggerate
+.hw   n/a'da$na' < >
+wc   2
+df   *mixer, *match-maker, one who brings things together
+.hw   na'da$na' < >
+wc   1
+df   cause to *mingle, *combine, mix, blend, *integrate
+.hw   na'dengha
+wc   1
+df   turn upside down, cause to bend over
+cf   dengha
+.hw   Nadet
+df   *nickname for Bernadita
+.hw   na'dilok
+wc   1
+df   cause to lower head
+cf   dilok
+.hw   na'dinanche < >
+wc   1
+df   *correct, *rectify, set right
+cf   rektifika, kurihi
+.hw   Nado'
+df   *nickname for Bernardo
+.hw   na'dochon
+wc   1
+df   *knock in, *drive in
+cf   dochon
+.hw   na'echong
+wc   1
+df   *bend, make crooked
+.hw   na'empas
+wc   1
+df   *pay up, even up, give satisfaction
+il   Hu na'empas i dibi-hu gi banko. |I paid up my debt at the bank
+.hw   na'/entalo'
+wc   1
+df   *set in between
+.hw   na'espongha
+wc   1
+df   *inflate, *swell, to cause swelling
+cf   espongha
+.hw   n/a'espongha < >
+wc   2
+df   *yeast, something that causes swelling
+.hw   na'etnon
+wc   2
+df   *collect, *gather, *group, *convene, bring toether into one
+  aggregate
+cf   na'montohon
+.hw   n/a'fache' < >
+wc   2
+df   *liquid--added to something
+.hw   na'fache' < >
+wc   1
+df   *smear
+cf   fache'
+.hw   n/a'failek < >
+wc   2
+df   *sour, *bitter
+.hw   na'fakpo'
+wc   1
+df   close--an agreement, close a sale, *finalize
+cf   makpo'
+.hw   na'falingu
+wc   1
+df   *destroy, *annihilate
+cf   malingu
+.hw   n/a'falingu < >
+wc   2
+df   anything that causes someone to be lost
+il   N/a'falingu i chichirika. |The chichirika bird causes one to get
+  lost
+.hw   na'faloffan
+wc   1
+df   *produce, *create, *transmit
+cf   maloffan
+.hw   na'famadesi
+wc   1
+df   *harm, *hurt, *injure, cause physical pain to
+cf   na'lamen, padesi
+.hw   na'fa'na'an < >
+wc   1
+df   *denominate, name someone to do something, call upon
+.hw   na'fa$nila'
+wc   2
+df   cause to *burn, *light up, cause to be brilliant
+il   Hu na'fa$nila i danges anai matto yo' gi gima'. |I lighted up the
+  candle when I came home
+.hw   na'fa$notsot
+wc   1
+df   *reform, *regret, cause to *repent
+.hw   n/a'fa$notsot < >
+wc   2
+df   *regrettable, *lamentable, *sorrowful, woeful, dreadful
+cf   fa$notsot
+il   Na'fa$notsot humanao asta Guam yanggen batko ha' na
+  transpottasion. |It is regrettable to go to Guam if the ship is the
+  only transportation available
+.hw   na'fata'chong
+wc   1
+df   *set, *support, sustain
+cf   mata'chong
+.hw   na'fitme
+wc   1
+df   *strengthen, insure
+cf   fitme
+.hw   na'flohu
+wc   1
+df   *slacken
+il   Na'flohu fan i tali. |Slacken the rope, please
+.hw   na'f/ofo'na
+wc   1
+df   send *ahead, send on in advance
+cf   na'fo'na
+.hw   na'fo'na
+wc   1
+df   *precede, *advance, *prefer
+cf   mo'na
+.hw   na'fotgon
+wc   1
+df   *dampen, *moisten
+cf   fotgon
+.hw   naftan
+wc   2
+df   *grave, *sepulcher, *tomb, burial place
+.hw   naga
+wc   2
+df   *flooded, covered with water
+.hw   na'gai-
+wc   1
+df   cause to *have
+cf   na'- |and &gai-
+il   Hu na'gaihanom i babui. |I watered the pigs
+.hw   na'g/aisabot
+wc   1
+df   *flavor, season with flavoring
+.hw   na'g/alilek < >
+wc   2
+df   cause to *roll, to roll a cylindrical object
+.hw   na'gao
+wc   2
+df   ripe *coconut--without juice; water has been fully absorbed
+.hw   nagase'
+wc   2
+df   *sink, *lavatory
+al   nangase'|. (S)
+cf   labadot
+.hw   na'gasgas
+wc   1
+df   *clean, *purify
+cf   gasgas
+.hw   na'gatbo
+wc   1
+df   *beautify, *embellish
+cf   gatbo
+.hw   na'getmon
+wc   2
+df   *chew audibly, *crunch
+il   Hu na'getmon i karot anai hu akka'. |I crunched the carrot when I
+  bit it
+il   Ha na'getmon i kinanno'-$na ni mangga. |He crunched into the
+  mango while eating it
+.hw   nagong < >
+wc   2
+df   *shelter
+al   $nagong
+.hw   n/a'guaha < >
+wc   2
+df   *supplier, one who usually supplies things when needed; one who
+  brings out things into existence, one who makes something exist
+cf   guaha
+.hw   na'gupu
+wc   1
+df   swing, *brandish, wave something
+cf   gupu
+.hw   na'hallom < >
+wc   1
+df   *imagine, *fancy, take a liking to
+.hw   na'halom
+wc   1
+df   *insert
+.hw   na'hanao
+wc   1
+df   *disconnect, *detach, *direct
+cf   hanao
+.hw   na'haspok
+wc   1
+df   *satiate, fill up (one's stomach)
+cf   haspok
+.hw   na'hasso < >
+wc   2
+df   cause to *think, *conceive, *imagine, *realize, *envisage,
+  *remind
+il   Hu na'hasso si Juan na u chule' i lepblo-$na gi eskuela. |I
+  reminded John to get his book at school
+.hw   na'ha'yan
+wc   1
+df   *put down--with words, *tell off, put someone in his place
+  verbally
+il   Si Juan ha na'ha'yan i banidosu na taotao. |Juan put the
+  conceited man in his place
+.hw   na'homlo'
+wc   1
+df   *heal, cause to be healthy
+.hw   n/a'homlo' < >
+wc   2
+df   *healer, curer, one who heals
+cf   a'amte
+.hw   nahong < >
+wc   2
+df   *enough, *sufficient, *satisfied
+cf   basta
+il   Nahong yo' esta setbesa. |I had enough beer already
+il   Kao nahong salape'-mu para i rediu? |Do you have enough money for
+  the radio?
+.hw   na'huyong
+wc   1
+df   *invent, *devise, find out; *beget, *create
+cf   huyong
+.hw   na'huyungi
+wc   1
+df   *furnish, *supply, *equip
+cf   huyong
+.hw   na'i
+wc   1
+df   *give, *deliver, *provide, *donate, bestow without a return,
+  *grant, *distribute. (Comb. of %na' |'cause' and %-i |'referential
+  focus particle')
+il   Hu na'i i patgon ga'-$na ga'lagu. |I gave the boy a pet dog
+.hw   nai
+df   *where (relative), *when (relative)
+il   I gima' amigu-hu nai sumaga yo'. |It was my friend's house where
+  I stayed
+il   Mananaitai-yo' estoria nai hu li'e' i aksidente. |I was reading a
+  story when I saw the accident. Also linking particle used with
+  question words %manu| and %ngai'an|
+il   Manu nai sumasaga hao? |Where do you live? %Ngai'an nai humanao
+  hao? |When did you go?
+.hw   na'i patte
+df   *impart, give a share, give notice
+.hw   na'i prenda
+df   post bail, to be responsible
+.hw   naile
+wc   2
+df   *tall and slender
+.hw   na'k/adada' < >
+wc   1
+df   *abridge, *shorten
+.hw   na'k/afache' < >
+wc   1
+df   bespatter with mud
+cf   fache'
+.hw   na'kahulo'
+wc   1
+df   *raise up, *haul up
+cf   kahulo'
+.hw   na'kalamten < >
+wc   1
+df   *stir up, *move, set in motion
+cf   kalamten
+.hw   na'kallo
+wc   1
+df   *loosen, *slacken
+cf   lusu, kallo
+.hw   na'kap/at
+wc   1
+df   make *room
+.hw   na'kayada
+wc   1
+df   *mitigate, *alleviate
+cf   kayada
+.hw   na'kemaigo'
+wc   1
+df   *lull, soothe to sleep
+.hw   na'k/esi$na
+wc   1
+df   *endeavor, *try
+.hw   na'k/ilulok
+wc   1
+df   *spin, set into spinning motion, as a top
+.hw   na'klaru
+wc   1
+df   *clarify, make clear
+cf   klarifika
+.hw   nakpa'$na
+wc   2
+df   *day after tomorrow
+al   inakpa'$na
+cf   agupa'$na
+.hw   na'l/a'anakko' < >
+wc   1
+df   *lengthen, add to length
+.hw   na'l/abaratu < >
+wc   1
+df   put on *sale, lower the price
+cf   baratu
+.hw   na'lachi < >
+wc   1
+df   *mislead
+.hw   na'lage'-
+df   make a little bit further, make a little more, a triple
+  combination of prefixes %na'- |'make', %la- |'a little (bit)', and
+  %ge'- |'further or more'
+cf   na'lahat-
+il   Na'lage'hilo' i amot gi estante. |Put the medicine a little bit
+  further up on the shelf
+.hw   na'lago' < >
+wc   1
+df   *melt, cause to liquefy
+.hw   na'lagu
+wc   1
+df   *cook, *boil, set upon the fire
+.hw   na'lahat- < >
+df   make a little bit further, make a little bit more, a triple
+  combination of prefixes %na'- |'make', %la- |'a little (bit), and
+  %hat- |'further or more'
+al   na'lat-
+cf   na'lage'-
+il   Na'lahatmagi i kannai-mu ya bai hu go'te. |Bring your hand a
+  little bit closer so that I can hold it
+.hw   na'l/akallo < >
+wc   1
+df   *loosen more, make looser
+cf   kallo
+.hw   na'la'la'
+wc   1
+df   *turn on, make alive, *plant, make grow
+il   Na'la'la' i kandet. |Turn on the light
+.hw   na'l/amafnot < >
+wc   2
+df   *tighten, make *tight, take up the slack
+.hw   na'l/amaolek < >
+wc   1
+df   *improve, *insure, to give one credit
+.hw   na'lamen
+wc   2
+df   *harm, *injure, *hurt, cause physical pain to
+cf   na'famadesi, na'chetnudan
+il   Hu na'lamen i taotao. |I hurt the man
+.hw   n/a'lamen < >
+wc   2
+df   *harmful, *injurious
+cf   na'tailayi
+il   Na'lamen gue' na taotao yanggen lalalo'. |He is a harmful person
+  when he is angry
+.hw   na'l/amoddong < >
+wc   1
+df   *deepen, *enlarge
+cf   moddong
+.hw   na'l/astima
+wc   1
+df   *waste
+cf   lastima
+.hw   na'lat- < >
+df   see &na'lahat-
+.hw   na'latfe'na
+wc   1
+df   *improve, prosper, *thrive
+cf   mo'na
+.hw   na'layo' < >
+wc   1
+df   *insult, *embitter, *incite
+cf   layo'
+.hw   na'libre
+wc   1
+df   *save, *spare, forgive--of sins, *liberate
+cf   libre, ridima
+.hw   na'lifet
+wc   1
+df   *smuggle, *contraband--traffic of, import without paying customs
+  duties
+il   I biha ha na'lifet i pigua' asta Saipan. |The old woman smuggled
+  the betel nut to Saipan
+.hw   na'liheng
+wc   2
+df   *rescue, make safe, deliver from danger, *protect, *defend,
+  guard, provide shelter
+il   Hu na'liheng i lahi gi gima'. |I rescued the man at my house
+.hw   na'lo < >
+wc   2
+df   *return--to its original state
+al   na'na'lo
+il   Numa'lo i pakyo'. |The typhoon returned
+il   Na'lo guatu gi gima'-mu sa' ninanangga hao as nana-mu. |Return to
+  your home because your mother is waiting for you
+.hw   na'ma'aksom < >
+wc   1
+df   make *sour
+cf   ma'aksom
+.hw   n/a'ma'a'$nao < >
+wc   2
+df   *monster, *ghost, *evil spirit, *horror, *monstrous, *frightful,
+  horrible, horrid, dreadful
+cf   fafa'$nague, e'espanta
+.hw   na'ma'ase'
+wc   2
+df   be *merciful, have compassion
+.hw   n/a'ma'ase' < >
+wc   2
+df   *miserable, *pitiful, *wretched
+.hw   na'mafnas
+wc   1
+df   *wipe out, *blot out, *eradicate, *extinguish, *erase, *delete,
+  *eliminate
+cf   funas|. One who or that which erases, one who or that which
+  causes to fade away
+.hw   n/a'mafnas < >
+wc   2
+df   *clorox, *bleach, any bleaching agent
+.hw   na'magof < >
+wc   1
+df   *gladden, *enliven, *satisfy, *amuse
+cf   magof
+.hw   n/a'magong < >
+wc   2
+df   *healer, *curer, a restorer of good health or condition
+.hw   na'mahlos
+wc   1
+df   *smoothe, *polish
+cf   mahlos
+.hw   n/a'mahlos < >
+wc   2
+df   steam *iron, steamroller, anything used for making things smooth
+.hw   na'mah$nao
+wc   1
+df   *recall, call back, *revoke
+.hw   na'maipe
+wc   1
+df   *heat, *warm up
+cf   maipe
+.hw   na'makatga
+wc   1
+df   *load on, put goods to be transported, to *ship
+.hw   n/a'malago' < >
+wc   2
+df   *desirable, be *desired, *appetizing, worth having
+cf   malago'
+il   Na'malago' makanno' i mansana ni agaga'-$na. |The apple is
+  desirable to be eaten for its redness
+.hw   na'malago' < >
+wc   2
+df   *desirous, *yearning, wishful, voracious, passionate, ardent
+.hw   n/a'malangu
+wc   2
+df   *sickening, nauseating
+.hw   na'mamahlao
+wc   2
+df   *ashamed--cause (someone) to be, *embarrass, *shame--put to,
+  *humiliate
+il   Hu na'mamahlao i lahi. |I shamed the man
+.hw   n/a'mamahlao < >
+wc   2
+df   *embarrassing, *bashful, shameful, humiliating
+il   Na'mamahlao bumulachu gi chalan. |It is shameful to be drunk on
+  the road
+.hw   na'manana < >
+wc   1
+df   *explain, make clear, make a clearing with a bulldozer
+.hw   na'mancha
+wc   1
+df   *stain, *desecrate
+cf   mancha
+.hw   n/a'manman < >
+wc   2
+df   *sublime, *awe-inspiring, *incredible, *unbelievable, exciting
+il   Na'manman hao na a'atte. |You are an incredible magician
+.hw   na'manso
+wc   1
+df   *tame, *calm down
+cf   manso
+.hw   na'm/a$na$na'
+wc   1
+df   *soften, move the heart
+.hw   na'mangto'
+wc   2
+df   *pulverize, reduce to powder or dust
+.hw   na'maolek
+wc   2
+df   *repair, *fix, *mend, *good condition--put in, *adjust, make
+  good, turn to good account
+.hw   n/a'maolek < >
+wc   2
+df   *repairman, *fixer, one who or that which makes good
+cf   maolek
+.hw   na'mapao
+wc   1
+df   *cool off, *refresh
+cf   mapao
+.hw   na'masa
+wc   1
+df   make *ready, place (food) in vinegar, *cook
+.hw   na'ma'se'
+wc   2
+df   *pitiful, *destitute, *pathetic
+il   Na'ma'se' i patgon sa' matai i nana-$na. |The child is pitiful
+  because his mother died
+.hw   n/a'masinek
+wc   2
+df   *laxative, *cathartic
+.hw   n/a'massa' < >
+wc   2
+df   *nauseous, *loathesome, *odious, *offensive
+.hw   na'matatnga < >
+wc   1
+df   *inspire, *encourage
+.hw   na'matunu
+wc   1
+df   *barbeque, cause to *burn
+.hw   na'matungo'
+wc   1
+df   *publicize, make known, propagate, promulgate, spread word of,
+  bring to public
+cf   pupblika
+.hw   na'maya' < >
+wc   1
+df   cause to *blur, make *obscure, cause to obscure
+il   Hu na'maya' inatan-$na si Jose anai hu ina ni denke'. |I caused
+  Jose's eyes to blur when I shined the flashlight
+.hw   n/a'moda < >
+wc   2
+df   *fad, passing fancy
+.hw   na'montohon
+wc   2
+df   *gather, *collect, *group, *convene, bring together into one
+  aggregate
+al   na'monton
+cf   na'etnon
+.hw   na'monton
+wc   2
+df   *collect, *gather
+al   na'montohon
+.hw   na'na'
+wc   1
+df   *hide, *conceal, *secrete, make secret
+cf   na'atok
+.hw   nana
+wc   2
+df   *mother, a female parent
+.hw   nana
+wc   2
+df   type of *plant-pterocarpus indicus. (?)
+.hw   nanagu
+wc   2
+df   type of *plant-alyxia torresiana; a type of tree
+.hw   na'nahong < >
+wc   1
+df   *supply, *provide
+.hw   n/ana'huyong < >
+wc   2
+df   *creator, the one who caused things to be
+.hw   n/analao
+wc   2
+df   my *goodness, *goodness gracious, a mild expletive
+il   Nanalao si Maria sa' humanao. |My goodness, Maria left
+.hw   n/ana'libre < >
+wc   2
+df   *savior
+.hw   na'na'lo < >
+wc   1
+df   *return (something) borrowed--usually something other than money
+il   I estudiante ha na'na'lo i inayao-$na gi amigu-$na. |The student
+  returned that which he borrowed to his friend
+.hw   Nanan Kilisyanu
+wc   2
+df   *christian Mother, religious organization for married women
+.hw   nanasu
+wc   2
+df   type of *plant-scaevola taccada; *fan flower
+.hw   nanasu
+wc   2
+df   type of *plant-geniostona micranthum; a type of tree
+.hw   nane'
+wc   2
+df   *shoals, *sandbank, shallow stretch of water
+.hw   nani < >
+wc   2
+df   *goat call, word used for calling goats
+.hw   nanka
+wc   2
+df   type of *plant-artocarpus heterophyllus; jackfruit
+al   lanka
+zb   *jackfruit
+.hw   nanu
+wc   2
+df   *dwarf, a diminutive human being
+.hw   nangga < >
+wc   1
+df   *wait, stay for, *await, wait for
+il   Si Linda ha nangga i bus gi estasion. |Linda waited for the bus
+  at the station
+.hw   nangu < >
+wc   2
+df   *swim
+al   $nangu
+.hw   nao'ao
+wc   2
+df   *clear (liquid), *transparent (liquid), capable of being seen
+  through
+.hw   naofragu
+wc   2
+df   *shipwrecked person
+.hw   naonao
+wc   2
+df   *quiver--jelly-like, shake like jelly or fat flesh
+al   laolao
+.hw   n/a'o'son < >
+wc   2
+df   *boring, tiring, wearied, exhausting
+.hw   napa
+wc   2
+df   type of *grass-napier grass
+.hw   na'para
+wc   1
+df   *halt, *stop, put to a stop, cause to stop
+.hw   na'paran$naihon
+wc   1
+df   *suspend, *delay
+.hw   na'parehu
+wc   1
+df   *assimilate, *arrange
+.hw   na'payon
+wc   2
+df   *accustom, cause to be used to
+il   Ha na'payon yo' si nana-hu manaitai kada dia. |My mother made me
+  accustomed to reciting a prayer daily
+.hw   na'piniti
+wc   1
+df   *sadden, make sad
+cf   piniti
+.hw   nappa' < >
+wc   2
+df   type of *plant-brassica; *chinese cabbage
+.hw   napu
+wc   2
+df   *wave, rough water, *surf
+.hw   nasa
+wc   2
+df   *fish trap--portable, movable fish trap, usually made from
+  chicken wire and wooden posts, sometimes made of bamboo strips
+.hw   na'sahnge
+wc   2
+df   *change appearance, *minus
+al   na'sangi
+.hw   nasan panglao
+wc   2
+df   crab *trap--for land crabs
+cf   okudon panglao
+.hw   na'sangi
+wc   2
+df   *change appearance, look *strange, cause to change, set aside
+al   na'sahnge
+cf   fa'sangi
+il   Un na'sangi posision-$na i kareta-mu anai un penta. |You made
+  your car look strange when you painted it
+.hw   na'saonao
+wc   1
+df   *include
+il   Na'saonao gue'. |Include him
+.hw   Nasar/et
+wc   2
+df   *nazareth
+.hw   nasarinu
+wc   2
+df   *leprosy, *leper
+al   lasarinu
+.hw   Nasarinu
+wc   2
+df   *nazarene
+.hw   na'satisfecho
+wc   1
+df   *satisfy
+.hw   na's/enbula
+wc   1
+df   *fill, *flood
+cf   bula
+.hw   na'setbe
+wc   2
+df   *use
+al   na'sietbe
+.hw   na'sietbe
+wc   2
+df   *use, *employ, *utilize, *spend, *expend
+al   na'setbe
+cf   aplika, gasta, usa
+il   Ha na'sietbe i lapes. |He used the pencil
+.hw   na'sikat
+wc   2
+df   pre-trial of cockfighting--just to see whether they will fight
+cf   sikat
+.hw   n/a'si$na < >
+wc   2
+df   *mighty
+.hw   na'si$nayon
+wc   2
+df   *feasible, *practicable
+.hw   nasi/on
+wc   2
+df   *nation, *folk
+.hw   nasion/at
+wc   2
+df   *nationality, *national
+.hw   na'suha
+wc   1
+df   *remove, set *aside, *exclude, *eliminate, separate, *minus
+cf   remotke, remoeba
+.hw   natahlek < >
+wc   2
+df   *crooked, *winding, curved, bending
+al   matahlek
+.hw   na't/aibali
+wc   1
+df   *avoid, *annul
+.hw   na'taiguenao
+df   do like that, make it like that. (Close to addressee)
+il   Na'taiguenao i kareta-hu i kareta-mu. |Make my car look like your
+  car
+.hw   na'taiguihi
+df   do like that, make it like that. (Away from speaker and
+  addressee)
+il   Na'taiguihi kulot-$na guatu. |Make its color like that there
+.hw   na't/ailayi
+wc   2
+df   be *cruel, make *bad, *bad--cause to be, cause (someone) to do
+  evil
+cf   tailayi
+.hw   n/a'tailayi < >
+wc   2
+df   *harmful, *injurious
+cf   na'lamen
+il   Si Jose na'tailayi na taotao. |Joseph is a harmful person
+.hw   na'talo'ani
+wc   1
+df   *dine, eat *lunch
+.hw   n/a'tanga < >
+wc   2
+df   *deafening, make deaf, deprive of the power of hearing
+.hw   natas
+df   see &$natas
+.hw   n/atata < >
+wc   2
+df   *shallow, not deep, *shoal, become shallow
+.hw   na'tatnon < >
+wc   1
+df   *distract, divert someone's attention
+.hw   na'tatte
+wc   1
+df   *hesitate, hang back
+.hw   natdo
+wc   2
+df   type of plant-zephyranthes rosea; type of *flower
+.hw   Natibid/at
+wc   2
+df   *nativity, *Christmas
+.hw   natibu
+wc   2
+df   *native, *indigenous
+.hw   na'tosta
+wc   1
+df   *toast, make crispy
+.hw   na'tunas
+wc   1
+df   *unbend, *unharness, *relax, *correct, *straighten
+cf   tunas
+.hw   na'tunok
+wc   1
+df   *lower, let down, *digest
+cf   tunok
+.hw   na'tungo'
+wc   1
+df   *reveal, make known
+cf   tungo'
+.hw   na'tungo'$naihon
+wc   1
+df   *insinuate, *hint, suggest indirectly
+.hw   natur/at
+wc   2
+df   *naturally, *natural
+.hw   naya
+df   *yet, for a *while, for a *second, for a *minute, for a *moment
+cf   $Naihon
+il   Cha'-mu humahanao naya. |Don't leave yet
+il   Nangga naya. |Wait for a while
+.hw   na'yan
+wc   1,2
+df   *serve (food), put, place food on the dish or water in the cup;
+  *dish, *plate, *cup, eating container
+il   Hu na'yan i kaddo gi tasa. |I fill the cup with soup
+il   Ha na'yan i palao'an i katne gi platu. |The woman served the meat
+  in the plate
+.hw   na'yan
+wc   2
+df   food or gifts from a party or novena
+.hw   na'yan mata'
+wc   2
+df   unprepared *food--given in lieu of a party
+.hw   na'yan me'me'
+wc   2
+df   *urinal
+.hw   na'ye
+wc   1
+df   *contaminate, *pollute, *taint, *defile, *add in, put in
+il   Ma na'ye abonu gi hatdin. |They put fertilizer in the garden
+il   I malangu ha na'ye yo' ni sinagu-$na. |The patient contaminated
+  me with his cold
+.hw   na'yommok
+wc   1
+df   *fatten, *feed
+cf   yommok
+.hw   n/a'yommok < >
+wc   2
+df   anything causing one to be fat
+.hw   Ne'
+df   *nickname for Manuel
+.hw   nebenu
+wc   2
+df   *ninth
+.hw   neb/et
+wc   2
+df   *level--carpenter's
+al   nubet
+.hw   negosiante
+wc   2
+df   *negotiator, *mediator, arbitrator
+.hw   negosio
+wc   2
+df   *negotiation, *bargain, agreement to arbitrate
+il   Mannegosio i emplehao siha yan i emplehon-$niha. |The employees
+  negotiated with their employer
+.hw   negro
+wc   2
+df   *negro, black complexion
+al   negra |(f)
+cf   bakuko', nekglo
+.hw   nehong
+wc   2
+df   *stoop, hunch over, *duck under
+il   Numehong yo' gi petta. |I stooped over at the door
+.hw   nekglo
+wc   2
+df   *negro, black complexion
+cf   bakuko', negro
+.hw   Nelong
+df   *nickname for Cornelio
+.hw   nena
+wc   2
+df   *beloved, *dear
+.hw   nena'
+wc   2
+df   *pig's call
+cf   bu
+.hw   Nena'
+wc   2
+df   pet name for Anna or Magdalena
+.hw   Nenan
+df   *nickname for Magdalena
+.hw   neni
+wc   2
+df   *baby, *infant, child, kid
+cf   patgon
+.hw   n/enkanno'
+wc   2
+df   *food, *aliment, *nutriment, nourishment, *sustenance
+.hw   nenggue
+wc   2
+df   *wait; older form for %nangga
+.hw   nesio
+wc   2
+df   *perverse, *obstinate, *foolish
+cf   aguaguat
+.hw   n/etbios
+wc   2
+df   nervous
+.hw   nette
+wc   2
+df   type of *plant-miscanthus floridulus; *sword grass
+.hw   ni
+df   *which (relative), *who (relative); contracted form of %nu |plus
+  %i
+il   I kareta ni poddong gi saddok iyo-ku. |The car which fell in the
+  river is mine
+il   I taotao ni tata-hu. |The man who is my father. Particle marking
+  indefinite or distributive object
+il   Hu taitai i lepblo. |I read the book
+il   Manaitai yo' ni lepblo. |I read of the book. Always used with
+  definite objects in constructions using class 2 verbs
+il   Malago' yo' ni lepblo. |I want the book. *Not even
+il   Ni si Jose. |Not even Jose. Used for marking instrumental phrases
+il   Hu ipe' i mansana ni se'se'-hu. |I cut the apple with my knife.
+  Used for marking non-focused elements in a clause
+il   Si Pedro ha na'hatsayi si Maria ni lamasa para i patgon. |Pedro
+  caused Maria to lift the table for the child
+.hw   ni'
+df   alternate form of particle %ni, |the contracted form of %nu |plus
+  %i
+.hw   ni hafa
+df   *nothing, *none, *nought, *nil, naught, all gone
+il   Ni hafa ti un na'saga yo'. |There is nothing you can do to make
+  me stay
+il   Ni hafa ya-hu guini. |There is nothing I like here
+.hw   ni hayi
+df   *nobody, no one, not a one, never a one
+il   Ni hayi tumungo' yo' giya Guam. |Nobody knows me on Guam
+.hw   ni kuanto
+df   *nowise, in no manner or degree
+il   Ni kuanto minetgot-mu ti un hulat yo'. |No matter how strong you
+  are you won't beat me
+.hw   ni manu
+df   *nowhere, not anywhere, at no place
+il   Ni manu hao guatu esta. |There is nowhere for you to go already
+.hw   ni ngai'an
+df   *never, not possible, *not ever
+il   Ni ngai'an ti un fa'maolek. |You will never fix it
+il   Ni ngai'an. |Never. (decision made not to do)
+.hw   ni taimanu
+df   *no matter, *nowise, no way, by no means, not by a long shot, in
+  no respect
+il   Ni taimanu ti un tungo'. |There is no way that you can know
+.hw   ni unu
+wc   2
+df   *nobody, no one
+.hw   Nia'
+df   *nickname for Estefania
+.hw   nichu
+wc   2
+df   *niche
+.hw   niebi
+wc   2
+df   *snow
+.hw   niega
+wc   1
+df   *deny
+cf   puni
+.hw   nieta
+wc   2
+df   *granddaughter
+.hw   nietkot
+wc   2
+df   type of *plant-suriana maritima; and pemphis acidula; similar to
+  %fofgo. |Type of *vine
+.hw   nietu
+wc   2
+df   *grandson
+.hw   nifen
+wc   2
+df   *tooth, *teeth
+.hw   nigap
+wc   2
+df   *yesterday
+.hw   nigap$na
+wc   2
+df   *day before yesterday
+.hw   nigas
+wc   2
+df   type of *tree-pemphis acidula
+zb   *pemphis acidula
+.hw   nigritos
+wc   2
+df   *black race, *negrito, *negro, people of very dark or black skin
+.hw   nihi
+df   *let's (do something)--used with future verb and 1st person
+  plural pronouns
+il   Nihi ta falagu. |Let's run
+il   Nihi ta fanhanao. |Let's all go
+.hw   nika
+wc   2
+df   type of *plant-dioscorea esculenta; variety fasciculate; type of
+  *yam
+cf   gaddo'
+.hw   nikan asumsion
+df   type of *yam--hairy; hairy root with thorny vines
+cf   gaddo', nika
+zb   *yam (hairy root)
+.hw   nikan simar/on
+wc   2
+df   type of *plant-dioscorea esculenta. (?)
+.hw   nina
+wc   2
+df   *godmother--short form
+al   matlina
+.hw   nina'-
+df   *cause to
+il   Na'- |plus goal focus infix %-in-
+il   Nina'maleffa hao ni estudiu-mu ni kontrata-ta. |Your study caused
+  you to forget about our agreement
+il   Nina'pokpok mata-$na anai inakka' ni sasata. |Your eye was caused
+  to swell when the bee stung it
+.hw   nina'halom
+wc   2
+df   *income; that which is caused to be in
+.hw   nina'huyong
+wc   2
+df   *creation, *work
+.hw   nina'i < >
+wc   2
+df   *gift, *present, *donation, a thing that is given away
+cf   chinchule', rigalu
+.hw   nina'libre
+wc   2
+df   one who is saved, one who is set free
+.hw   nina'maolek
+wc   2
+df   *improvement
+.hw   Ninan
+df   *nickname for Catalina
+.hw   nina'si$na
+wc   2
+df   *power, *strength, *might, *force, energy, *stamina
+cf   fuetsa, minetgot, alimento, alentos
+.hw   nina'ye < >
+wc   2
+df   *contaminated, *polluted, *tainted, *defiled, stained, soiled, or
+  corrupted by contact
+.hw   nina'ye masisinik
+wc   2
+df   *diarrhea, have *diarrhea
+.hw   ninu
+wc   2
+df   *godfather--short form
+al   patlinu
+.hw   Ni$nu
+wc   2
+df   baby *Jesus
+.hw   nipa
+wc   2
+df   type of *plant-nipa; a palm that grows by the rivers, very good
+  for making thatch
+.hw   nira'
+wc   2
+df   *leek, *scallion, *onion--flat-leaf. (S)
+cf   siboyas
+.hw   nisisario
+wc   2
+df   *necessary, *needful, *essential
+.hw   nisisid/at
+wc   2
+df   *necessity, *need
+.hw   nisisita
+wc   1
+df   *need, *require, *want, *necessary
+.hw   nisisit/ao
+wc   2
+df   *needy, *necessitous, poor, destitute, in need
+.hw   niyok
+wc   2
+df   *coconut--tree or fruit
+.hw   niyok
+wc   2
+df   type of *plant-cocos nucifera; *coconut palm
+.hw   niyok kannu'on
+wc   2
+df   *coconut--having sweet husk, milk, etc. while still green
+.hw   no
+df   *yes, in rhetorical question
+il   Ya-mu no humanao para Hawaii? |You like to go to Hawaii, yes? %Un
+  espiha gue', no? |You looked for him, yes?
+.hw   nobena
+wc   2
+df   *novena, *devotion
+.hw   nobenta
+wc   2
+df   *ninety
+.hw   nobenta i unu
+wc   2
+df   *ninety-one
+.hw   nobia
+wc   2
+df   *sweetheart, *girlfriend, *lover, loved one, *bride
+.hw   nobid/at
+wc   2
+df   *novelty, *news
+.hw   Nobiembre
+wc   2
+df   *november
+cf   sumongsong
+.hw   nobilid/at
+wc   2
+df   *nobility, *royalty
+.hw   nobiu
+wc   2
+df   *sweetheart, *fiance, *groom, *bridegroom, *suitor
+.hw   nochebuena
+wc   2
+df   *evening, *eve, *Christmas eve
+.hw   noches
+wc   2
+df   *evening, *night, but used only in a phrase, such as, %buenas
+  noches, |good night, or good evening
+.hw   nokieru
+df   *dislike
+al   nukeru
+.hw   nombra
+wc   1
+df   *command, *force, *rule, *appoint
+cf   manda
+.hw   nombrayon
+wc   2
+df   *eligible, legally qualified
+.hw   nones
+wc   2
+df   *odd (not even), not divisible by two, not a pair
+.hw   nonnak
+wc   2
+df   type of *plant-hernandia sonora; *jack-in-the-box tree; has very
+  soft wood
+.hw   nopble
+wc   2
+df   *noble, *highborn
+.hw   nosa'
+wc   2
+df   type of *bird-zosterops c; conspicillata, bridled white-eye
+  (green)
+zb   *bridled white-eye (green bird)
+.hw   noseha ki
+df   *might, *in case
+al   nosea ki
+il   Ta nanggan$naihon noseha ki u bira gue' magi ta'lo. |We will wait
+  for a while in case he turns back again
+.hw   noskuantos
+wc   2
+df   *several, *couple of, *few, some, more than two or three (but not
+  many)
+al   unos kuantos, los kuantos
+il   Noskuantos granu ha' tinekcha'-hu na guihan. |I speared a few
+  fish
+.hw   nosnos
+wc   2
+df   *squid, *cuttlefish; decapod cephalopod
+al   nosngos
+.hw   nota
+wc   1
+df   *note, *record, set (down) in writing, make a special mention of
+.hw   notifika
+wc   1
+df   *notify
+cf   infotma
+.hw   notifikasi/on
+wc   2
+df   *notification
+.hw   notisia
+wc   2
+df   *notice, *message, *information, *announcement
+cf   infotmasion, anunsia
+.hw   notte
+wc   2
+df   *north
+cf   lagu
+.hw   nu
+df   particle, used to mark non-focus elements of a construction;
+  usually occurs as %ni |which is a contracted form of %nu |plus %i.
+  |Always occurs as %nu |when preceding pronouns
+il   Ti hiningok hao nu guiya. |He didn't hear you
+il   Kao hagu pinacha nu siha? |Were you the one who was touched by
+  them?
+.hw   nu
+df   pause particle used to fill space during pause in speaking
+.hw   nub/et
+wc   2
+df   *level (carpenter's)--a device for establishing a horizontal
+  line, vertical line, or diagonal line
+al   mubet, nebet
+.hw   nubiyitu
+wc   2
+df   young *steer, young male ox
+.hw   nubiyu
+wc   2
+df   *ox, *steer--castrated bull
+.hw   nubladu
+wc   2
+df   *cloudy
+al   nupbladu
+.hw   nudu
+df   a *knot, any type of knot including knot on a tree or knot tied
+  with rope
+al   $nudu
+.hw   nuebi
+wc   2
+df   *nine
+.hw   nuebu
+wc   2
+df   *new, *modern, *strange, unfamiliar, fresh
+.hw   nufo'
+wc   2
+df   type of *fish-family scorpaenidae; stone fish, scorpion fish;
+  highly poisonous if dorsal spines penetrate the skin
+zb   stone *fish, *scorpion fish
+.hw   nufo' pabu
+wc   2
+df   type of *fish-pterois antennata (family scorpaenidae); scorpion
+  fish
+zb   *scorpion fish, *turkey fish, *lion fish
+.hw   nuhong
+wc   2
+df   *shady, *shaded, *shadowy, abounding in shade
+cf   lehngong
+.hw   nuhot
+wc   2
+df   *stem--coconut leaf, *midrib--coconut leaf
+.hw   nukeru
+df   *eschew, care for none, want no part of it, dislike, have no
+  desire
+al   nokieru
+il   Nukeru bumaila. |I have no desire to dance
+.hw   nulu
+wc   2
+df   *null, *void
+.hw   numa'lo < >
+wc   2
+df   *revive, *do again, *return
+cf   ta'lo
+il   Numa'lo i pakyo. |The typhoon returned
+.hw   n/umiru
+wc   2
+df   *number
+.hw   nunka
+df   *never, not *ever, at no time--not in any degree, way, or
+  condition
+cf   taya'
+il   Nunka yo' nai mandagi. |I have never lied
+il   Nunka si Rosa na fatta gi eskuela. |Rosa is never absent from
+  school
+.hw   nunok
+wc   1
+df   make *ripen, conceal fruit for ripening
+.hw   nunu
+wc   2
+df   type of *plant-ficus prolixa; type of *tree; *banyan tree
+.hw   nupbladu
+wc   2
+df   *cloudy, cloudy weather
+al   lubradu, nubladu
+.hw   nupi
+wc   2
+df   type of *vine--formerly used for lashing in building houses
+.hw   nutr/at
+wc   2
+df   *neutral, unbiased
+.hw   -$na
+df   *his, *her, *its, hers (possessive)
+il   Si Pete patgon-$na. |Pete is his child
+.hw   -$na
+df   *more, *better, *comparative degree, usually used with %kinu| in
+  comparative statements
+il   Maolek$na kareta-hu kinu kareta-mu. |My car is better than your
+  car
+il   Meggai$na salape'-hu kinu hagu. |I have more money than you
+.hw   -$na...ki
+df   comparative construction; used in place of %$na...kinu; maolek$na
+  kareta-hu ki kareta-mu. |My car is better than your car
+.hw   $naba' < >
+wc   2
+df   *relaxed, *pliable, *flexible, easily bent
+cf   $Naohan
+.hw   $n/afula < >
+wc   2
+df   *flabby, weak in appearance
+cf   $Naba'
+.hw   $nagong < >
+wc   2
+df   *shelter--from the rain. (S)
+al   nagong
+il   Bai hu $nagong gi kareta. |I will shelter myself from the rain in
+  the car
+il   $Numagong yo' nigap. |I sheltered myself from the rain yesterday
+il   $Nagong gi gima'. |Shelter yourself from the rain in the house
+il   Hu na'$nagong i amigu-hu gi gima'. |I sheltered my friend from
+  the rain at the house
+.hw   $n/ahlalang < >
+wc   2
+df   light (in weight), easy
+al   $nalalang
+.hw   -$naihon
+df   *awhile, for a *while, for a moment, a short time, short moment
+  (suffix)
+il   Sagan$naihon asta ki matto yo'. |Stay for a while until I come
+  back
+il   Sugo'$naihon gi gima' gi birada-mu. |Stop by at the house for a
+  while on your way back
+.hw   -$naihon
+df   *little bit
+il   Ballen$naihon. |Sweep a little bit
+.hw   $naka' < >
+wc   1
+df   *hang (to death), suspend by the neck until dead
+.hw   $n/alalang < >
+wc   2
+df   *light (in weight), *easy, not heavy
+al   $nahlalang
+.hw   $nalang
+wc   2
+df   *hungry, feeling hunger, marked by lack of food
+.hw   $nama' < >
+wc   2
+df   sluggish, slow poke, slow, slow moving, markedly slow in
+  movement, *weak, deficient in bodily vigor
+cf   manman
+.hw   $nam$nam < >
+wc   2
+df   *chew, sound of chewing, *eat
+cf   ngangas
+il   Fan$nam$nam papaya. |Eat the papaya
+.hw   $namu
+df   *mosquito
+.hw   $na'$na'
+wc   1
+df   *mix--grated coconut meat with raw fish, shrimp, or meat. (R) %Hu
+  $na'$na' i guihan. |I mixed fish with the coconut meat
+.hw   $na$nak
+wc   2
+df   type of *rock-pumice; a very light weight stone found in the
+  Marianas
+zb   *pumice
+.hw   $na$nas
+wc   2
+df   *weary, fatigued, exhausted, tired (physically), done in, worn
+  out, prostrate, haggard, all in. (R)
+al   yayas
+.hw   $na$no' < >
+wc   1
+df   cause to *sniff, cause to *smell, put something close to a
+  person's nose, thereby causing him to smell it
+.hw   $na$no' < >
+wc   2
+df   *dull, not sharp
+cf   dafe'
+.hw   $nanggo
+wc   2
+df   *hip, *haunch, *loins
+.hw   $nangnang < >
+wc   2
+df   *talkative, entertaining
+.hw   $nang$nang < >
+wc   2
+df   cute baby, cooing, *smiling
+il   $Nang$nang na patgon. |A cute baby
+.hw   $nangon < >
+wc   1,2
+df   *whisper, *soft voice, talk with constricted vocal cords, speak
+  covertly esp. in conspiracy or criticism; soft *utterance,
+  *volume--soft, speech without voice
+.hw   $nangu < >
+wc   2
+df   *swim
+al   nangu
+il   I maolek na $nangu. |The good swim
+il   $Numangu yo' asta i mama'te. |I swam to the reef
+.hw   $nao
+wc   2
+df   *brother-in-law; short form for %ku$nadu
+al   ku$na
+.hw   $naohan
+wc   2
+df   *flabby, *loose, less tense, slacken
+cf   $Naba'
+il   $Naohan tataotao-mu. |Your body is flabby
+il   $Naohan i tali. |The rope is slack
+.hw   $na'ot < >
+wc   2
+df   *crab--when carrying eggs; stage when crabs are carrying eggs on
+  them
+cf   mangulales
+il   Man$na'ot i panglao siha. |The crabs have eggs on them
+.hw   $na'ot < >
+wc   2
+df   crab *eggs, fish *eggs
+cf   figan
+.hw   $natas
+wc   2
+df   *scum, skimmings, which forms on the surface of any soupy food or
+  liquid
+al   natas
+.hw   $nateng < >
+wc   2
+df   *slow, not hasty, slow-witted
+.hw   $nedok
+wc   2
+df   *adolescent male, changing *voice--in adolescent male
+.hw   $nega
+wc   1
+df   *deny, *nullify, contradict, break contract
+cf   puni
+il   Ma$nega i ginagao-ta. |Our request was denied
+il   Ha $nega i kontrata. |He cancalled the contract
+.hw   $nehngon
+wc   2
+df   *shaded area--where soil is fresh and moist
+.hw   $nehom
+wc   2
+df   *lurk, to *duck, bob down, evade
+al   $nehong
+il   $Numehom yo' gi tatten i acho'. |I ducked behind the rock
+.hw   $nehong
+df   see &$nehom
+.hw   -$niha
+df   *their, *theirs
+il   Bunitu i karetan-$niha. |Their car is pretty
+.hw   $Ni$nu
+wc   2
+df   baby *Jesus. (R)
+al   ni$nu
+.hw   $nohmon
+wc   2
+df   watery *soil--almost muddy, one's feet will sink in 3 to 4 inches
+  when walking over it
+.hw   $nok$nok
+wc   1
+df   *submerge, *immerse, cause to submerge
+cf   lumos, supok
+.hw   $nong$nong
+wc   2
+df   *talkative, entertaining, *gabby
+al   $nang$nang
+.hw   $nora
+df   expression used when kissing a woman's hand when performing
+  %nginge'. |From %se$nora
+.hw   $not
+df   expression used when kissing a man's hand in performing %nginge'.
+  |From %se$not.| Also used when answering an older male's call
+.hw   $notak
+wc   2
+df   type of *eel-lycodontis picta; lycodontis picta--grayish white
+  brown covered with very fine dots. (R)
+cf   hakmang
+zb   gray *eel--grayish white, covered with very fine dots; lives
+  inside the reef, and grows up to three feet in  length
+.hw   $nudu
+wc   2
+df   *hollow, not solid--having a cavity within a solid substance,
+  *knot--in wood
+.hw   $nufo'
+wc   2
+df   type of *fish-family scorpaenidae; scorpion fish, stone fish
+al   nufo'
+zb   *toadfish, *scorpion fish, *stonefish, *rockfish; highly
+   poisonous when dorsal spines puncture the skin
+.hw   $nukot
+wc   1
+df   *strangle, *choke, stifle, suffocated by choking
+.hw   $nu$na
+wc   1
+df   *flatter, pacify by stroking or petting; boost one's morale
+.hw   ngaha
+df   don't know, don't understand. (R)
+.hw   ngaha' < >
+wc   2
+df   *look up, with head tilted back
+.hw   ngai'an
+df   *when (question word); usually followed by %nai
+il   Ngai'an nai mafa$nagu hao? |When were you born?
+.hw   nga'nga'
+wc   2
+df   open *mouthed--while staring blankly, look up with mouth open,
+  *gape
+.hw   nganga'
+wc   2
+df   *duck (fowl)
+.hw   nganga'
+wc   2
+df   type of *plant-lumnitzera littorea; a type of flower
+il   Flores nganga'
+.hw   nganga' palao
+wc   2
+df   type of *bird-anas oustaleti, marianas mallard
+zb   *mallard--marianas, pintail, tufted duck, widgeon
+.hw   ngangas
+wc   1
+df   *chew, *masticate, grind with the teeth
+.hw   ngangas < >
+wc   2
+df   *balding
+cf   dakngas
+.hw   ngasan
+wc   2
+df   *straw, anything made of straw, such as hat, bag, slippers
+.hw   ngatnan
+wc   2
+df   *leftover food--used for slop or for feeding animals
+cf   ankanno'
+.hw   ngayu < >
+wc   2
+df   collect *firewood
+il   Ngumayu yo'. |I collected firewood
+.hw   nge'lo'
+wc   2
+df   *peeping tom, one who peeks surreptitiously at things, *voyeur
+.hw   ngelo'
+wc   1
+df   *peep at, *peek at, as through a crevice or small hole
+cf   adu, engelo'
+.hw   nget
+wc   2
+df   type of *plant-allophylus timorensis. (?)
+.hw   nginge'
+wc   1
+df   *sniff, *smell (something), kissing back part of a person's right
+  hand upon meeting as a sign of respect
+.hw   ngisot
+wc   2
+df   *shorten, *short in length, make *short, make *tight
+il   Hu na'ngisot i tali-$na i guaka. |I shortened the cow's rope
+il   Ngisot i magagu-$na i palao'an. |The woman's dress was short
+.hw   ngofngof
+wc   2
+df   *blow (the nose), blow *nose
+.hw   ngokngok
+wc   2
+df   unclear *speech, sometimes a temporary condition resulting from
+  accident
+.hw   ngulo'
+wc   2
+df   *hole, *crack, *porous, capable of being seen through, as porous
+  cloth, *slit, *aperture
+.hw   o
+df   *o--letter
+.hw   o
+df   *oh, *so, (expression)
+.hw   o-
+df   *search for (something)--prefix; alternate form of %e-; opanglao.
+  |Look for crabs
+.hw   oba'
+wc   2
+df   fever *blister--at corner of the mouth
+cf   pakpak
+.hw   obehas
+wc   2
+df   *sheep
+cf   kinilu
+.hw   obidiente
+wc   2
+df   *obedient, *amenable, submissive to restraint, control, or
+  command
+cf   osgon
+.hw   obispo
+wc   2
+df   *bishop
+.hw   obra
+wc   1
+df   *design, *scheme, *outline, *sketch, *work
+il   Hu obra i gima'-hu. |I designed my house
+il   Ma$nule' hao obran guma'. |You took on the job of building a
+  house
+.hw   obra
+wc   2
+df   *free to act
+il   Obra i patgon manestudia gi gima' sa' guiya ha' na maisa. |The
+  child was free to study in the house for he was by himself
+.hw   Ocha'
+df   *nickname for Rosa
+.hw   ochenta
+wc   2
+df   *eighty
+.hw   ochenta i unu
+wc   2
+df   *eighty-one
+.hw   ocho
+wc   2
+df   *eight
+.hw   odda
+wc   2
+df   type of *fish-ctenochaetus striatus (family acanthuridae);
+  surgeon fish
+zb   *surgeon fish--blackish brown
+.hw   odda'
+wc   2
+df   *soil, *ground, *dirt
+al   edda'
+.hw   odda' sabana
+wc   2
+df   *clay
+.hw   oddas
+wc   1,2
+df   *support, bear the weight or stress of, sustain (a load);
+  *footstool
+.hw   oddo
+wc   2
+df   *smudge, smudge pot, fumigation, fire to smoke mosquitos out,
+  *smoke out, *mosquito coil
+cf   senko'
+il   Ti guinaiya i eddo ni $namu. |The mosquitos dislike the smoke
+  from the fire
+.hw   oddo'
+wc   2
+df   *carry--on head
+al   otdo'
+.hw   /o'duko'
+wc   2
+df   *crazy, *foolish
+cf   kaduku
+.hw   ofende
+wc   1
+df   *offend, transgress, to sin, cause to feel hurt or resentful
+cf   isagui
+.hw   ofensa
+wc   2
+df   *offense--as to commit an offense
+.hw   ofisi/at
+wc   2
+df   *officer, *official
+.hw   ofisina
+wc   2
+df   *office, *administration, administrative department, clerical
+  department
+.hw   ofisiu
+wc   2
+df   *job, *post, official position, *employment, *work, *career,
+  *occupation
+.hw   ofresi
+wc   1
+df   *offer, *propose, *proffer, bid (as a price), make an offer of
+.hw   ofresimiento
+wc   2
+df   *offer, *offering, promise
+il   Bula ofresimiento-mu giya siha lao taya' un kukumple. |You made
+  lots of promises to them, but you have never accomplished any of
+  them
+.hw   ogga'an
+wc   2
+df   *morning, *dawn
+.hw   oggan
+wc   2
+df   *stuck on, run *aground, stranded, to land on accidentally
+il   Oggan i batko gi mama'te. |The ship was stuck on the reef
+il   I papaloti oggan gi tronkon hayu. |The kite was stuck in the tree
+.hw   oha
+wc   2
+df   solid covering for doorway or window
+.hw   /ohala
+df   *thankful, how thankful or grateful one may be
+al   o'la'
+il   Ohala ya i la'la' ta'lo' si nana-hu. |How thankful I would be to
+  have my mother living again
+.hw   ohales
+wc   1,2
+df   *buttonhole, make buttonhole
+al   uales, ales
+.hw   ohan bentana
+wc   2
+df   *shutter--for window, solid covering for window
+.hw   ohan potta
+wc   2
+df   *door
+cf   oha
+.hw   ohas
+wc   2
+df   *leaf, *page, sheet of paper
+.hw   ohlo'
+wc   2
+df   *stooped person, usually among older people; slouchy posture
+.hw   oia'
+wc   2
+df   *shooter, *taw, in a marble game. (S)
+cf   bakulu
+.hw   okasi/on
+wc   2
+df   *occasion
+.hw   /okkodon panglao
+wc   2
+df   *crab trap--for land crabs
+.hw   /okkodu
+wc   2
+df   *snare, *trap, anything by which one is entangled, rat trap
+.hw   okra
+wc   2
+df   type of *plant-hibiscus esculentus; *okra; a type of vegetable
+.hw   okso'
+wc   2
+df   *hill, *heap, *mound, a raised bank, *knoll, *hilly
+cf   bokka'
+.hw   oktaba
+wc   2
+df   *octave
+.hw   oktabu
+wc   2
+df   *eighth
+.hw   okte
+wc   1
+df   *give abundantly
+cf   na'i
+.hw   Oktubre
+wc   2
+df   *october
+cf   fagualo'
+.hw   okupa
+wc   1
+df   *occupy, *employ, be busy, keep engaged, dwell in (as a tenant)
+.hw   okupante
+wc   2
+df   *occupant
+.hw   okup/ao
+wc   2
+df   *occupied
+.hw   okupasi/on
+wc   2
+df   *occupation, *occupancy, profession, career, trade, employment
+.hw   o'la'
+df   oh how--exclamation usually followed by %mohon
+al   ohala
+il   O'la' mohon ya hohoben ha' yo'. |Oh how I wish i were young
+.hw   Oleai
+wc   2
+df   *oleai, one of the villages on Saipan, north of Chalan Kanoa,
+  recently named San Jose
+.hw   olibas
+wc   2
+df   *olives
+.hw   /olios
+wc   2
+df   *unction, extreme unction
+.hw   Olo'
+df   *nickname--for Pedro
+al   elo'
+.hw   o'mak
+wc   2
+df   take a *shower, *swim, *bathe
+il   Umo'mak i patgon gi saddok. |The child swam in the river
+.hw   ombo'
+wc   1
+df   *carry, *pickaback, carry *piggyback, *astraddle, as when babies
+  are carried on the backs of their mothers. (S)
+cf   uke'
+.hw   ombre
+df   *please, usually has a connotation that the addressee has already
+  been asked or warned before
+cf   me'nan
+il   Ombre nihi. |Please let's go
+il   Ombre munga ma'estotba i amko'. |Please (I told you once) don't
+  annoy the old man
+.hw   ombres
+df   *even though, *furthermore, as *well, *similarly, besides, also,
+  too
+il   Ombres hagu ti ya-mu gamson kuastaria yo'. |Even you don't like
+  octopus, least of all me
+il   Ombres tataya' salape'-hu sigi ha' yo' un ayao. |Even though I'm
+  running out of money, you continue to borrow from me
+.hw   omiti
+wc   1
+df   *omit, leave out, not include
+.hw   omlat
+wc   2
+df   *fit, fit into
+al   ulat
+il   Omlat i aniyu gi kalulot-hu. |The ring fit my finger
+il   Omlat yo' gi sapatos-hu. |I fit into my shoes
+.hw   /omumu
+wc   2
+df   type of *plant-pisonia grandis; a type of tree
+.hw   -on
+df   *abilitative suffix, *capable of
+il   -yon |following vowels
+il   Guasa', |sharpen
+il   I guasa'on, |something capable of being sharpened
+il   Kannu'on este na fruta. |This fruit is edible
+il   Taitayon ayu na lepblo. |That book is readable
+.hw   onesto
+wc   2
+df   *honest, *truthful, *frank, *sincere
+al   onesta |(f)
+cf   franko, sinseru, magahet, siguru
+.hw   Onin
+df   *nickname for Antonia
+.hw   onno'
+wc   2
+df   *covering, *blanket, linen
+cf   sabanas
+.hw   onra
+wc   1,2
+df   *honor, *fame, credit, good name, *homage, *reverence,
+  *deference, *obeisance
+.hw   onse
+wc   1
+df   put on *harness, to *yoke
+.hw   onse
+wc   2
+df   *eleven
+.hw   ongngo'
+wc   2
+df   flat *nose, *noseless, speak through the nose, *nasal speech
+il   Ongngo' na gui'eng. |A flat nose
+il   I taotao ongngo' kumuentos. |The person spoke through his nose
+.hw   o'o'
+wc   2
+df   *drink (soup)
+.hw   o'o'
+wc   2
+df   *crow (of rooster)
+.hw   kaddo
+wc   1, 2
+df   boil--type of cooking meat or soup, *sauce, *broth, *soup
+il   Ma gimen i kaddo. |They drank the broth
+.hw   opbliga
+wc   1
+df   *oblige, bind by an obligation, bring or place under moral or
+  legal duty or constraint
+cf   afuetsas
+il   Ta opbliga i patgon humanao asta i eskuela. |We obliged the child
+  to go to school
+.hw   opblig/ao
+wc   2
+df   *obligated, *compulsory, *bound, *restricted, *forced
+cf   afuetsas
+il   Opbligao i ma$naina na u na'fanhanao i famagu'on-$niha
+  maneskuela. |The parents are obligated to send their children to be
+  educated
+.hw   opbligasi/on
+wc   2
+df   *obligation, *duty, *responsibility, commitment
+cf   responsibilidat
+.hw   opela
+wc   2
+df   *opal
+.hw   opera
+wc   1
+df   *operate, perform an operation
+.hw   operasi/on
+wc   2
+df   *operation
+.hw   ophetu
+wc   2
+df   *object
+.hw   o'pok
+wc   1
+df   *lie down--with face down
+cf   oppop
+.hw   opottunid/at
+wc   2
+df   *opportunity
+.hw   oppan
+wc   2
+df   *audible, *resound, can be heard, be heard
+cf   hongga
+il   Oppan i bos-hu gi halom kuatto. |My voice was heard inside the
+  room
+.hw   oppe
+wc   1
+df   *reply, *answer, *respond
+.hw   oppop
+wc   2
+df   *lie down on stomach, recline on stomach, lying face down
+il   Hu na'oppop i patgon. |I laid the baby face down
+il   Umoppop i patgon anai madulok gi espitat. |The child lay down on
+  his stomach when he was given a shot at the hospital
+.hw   ora
+wc   1,2
+df   *time; *hour, *time
+il   Hu ora i buseru anai lumi'of asta i fondo. |I timed the diver
+  when he dived to the bottom
+il   Hayi guaha ora-$na? |Who has the time?
+.hw   orario
+wc   2
+df   *hour hand--on watch or clock
+.hw   orasi/on
+wc   2
+df   *oration, *prayer time
+.hw   Ordot
+df   village in central Guam; pron. otdot
+.hw   oriente
+wc   2
+df   *orient, the east; countries east of the Mediterranean or eastern
+  Asiatic countries; eastern, *oriental
+.hw   orihin/at
+wc   2
+df   *original, that which is the source or origin (of something)
+.hw   oropa
+wc   1
+df   *cover up, *conceal, *hide by covering. (R)
+cf   tampe
+.hw   oros
+wc   2
+df   *diamonds--card in the suit of
+.hw   oru
+wc   2
+df   *gold
+.hw   osge
+wc   1
+df   *mind, *pay attention to, give heed to, be obedient to
+.hw   osge
+wc   1
+df   *resemble, look like, take after
+cf   gapi, parehu
+il   Si Pedro ha osge si tata-$na. |Pete takes after his father
+.hw   osgon
+wc   2
+df   *amenable, *submissive, *dutiful, *obedient
+cf   obidiente
+.hw   osiosu
+wc   2
+df   *leisure, *ease, freedom from occupation, *idle, *lazy
+.hw   osngan
+wc   1
+df   *carry (something)--by putting a stick over one's shoulder
+cf   pingga
+.hw   o'son
+wc   2
+df   *bored, tired, exhaust one's patience
+cf   sosongte, singao, impachu
+il   O'son yo' humungok i kanta-mu. |I am bored listening to your song
+.hw   ospit/at
+wc   2
+df   *hospital, *clinic, *infirmary, *sick bay, dispensary
+al   espitat
+.hw   /ossitan
+wc   2
+df   *joke
+al   essitan
+.hw   /ostia
+wc   2
+df   *eucharist--before or after consecration, *sacrament
+.hw   osu
+wc   2
+df   *bear, bruin, ursus
+.hw   otden
+wc   1
+df   *command, give an order to, *order, *direct, instruct, *prescribe
+cf   komanda
+.hw   otdena
+wc   1
+df   *ordain, *enact, *predestine, introduce into the office of the
+  Christian ministry
+.hw   otdinariu
+wc   2
+df   *ordinary, *usual, *normal, *common
+.hw   otdo'
+wc   1
+df   *carry (something) on the head
+al   oddo'
+cf   do'an
+.hw   otdon
+wc   2
+df   *pimple, *sty--in the eye
+.hw   otdot
+wc   2
+df   *ant, pismire
+cf   hateng
+.hw   otdot agaga'
+wc   2
+df   red *ant
+.hw   otdot /attilong
+wc   2
+df   black *ant
+.hw   otdot d/ikike'
+wc   2
+df   type of *ant--especially fond of sweets
+.hw   otdot sakkan
+wc   2
+df   *ant--small black
+.hw   otganisa
+wc   1
+df   *organize, *form, *make, *shape
+cf   fa'tinas, fotma
+.hw   otguyosu
+wc   2
+df   *self-opinionated, *selfish, *stuck-up, *avaricious, *greedy
+al   atguyosu
+cf   chattao, interesao
+.hw   otob/ai'
+wc   2
+df   *motorcycle, *motorscooter. (S)
+al   motosaikot
+.hw   otpos
+wc   2
+df   *ashes--from burned tobacco, *butt--from cigarette or cigar
+.hw   otro
+wc   2
+df   *other, *else, *different, *additional, *another
+il   Kao guaha otro ta'lo? |Is there another one? %Hafa otro? |What
+  else is there? %I otro na lahi. |The other man
+.hw   otro na mes
+wc   2
+df   next *month, coming month
+al   otro mes
+cf   mamamaila' na mes
+.hw   otro na sakkan
+wc   2
+df   next *year
+al   otro sakkan
+cf   mamamaila' na sakkan
+.hw   otro na simana
+wc   2
+df   next *week
+al   otro simana
+cf   mamamaila' na simana
+.hw   otro$na na mes
+wc   2
+df   *month after next
+al   otro$na mes
+cf   mamaila'$na na mes
+.hw   otro$na na sakkan
+wc   2
+df   *year after next
+al   otro$na sakkan
+cf   mamaila'$na na sakkan
+.hw   otro$na na simana
+df   *week after next
+al   otro$na simana
+cf   mamaila'$na na simana
+.hw   otto
+wc   1,2
+df   *bump, *bang, *thump, poke, *butt, *jolt, *jostle
+cf   toyo', totpos
+.hw   ottot
+wc   2
+df   type of *plant-discocalyx megacarpa; a type of tree
+.hw   pabu
+wc   2
+df   *turkey
+.hw   pacha < >
+wc   1
+df   *touch, be in contact, perceive by feeling
+cf   ette
+.hw   pachakati
+wc   2
+df   *small--in growth, *weak, underdeveloped in stature
+.hw   pachang < >
+wc   2
+df   *weakling, *milksop, cry-baby, *sissy, an unmanly man
+.hw   pachinko'
+wc   2
+df   *spear gun (local made)--used for spear fishing. (S)
+cf   paken tokcha'
+.hw   pachodak
+wc   2
+df   type of *plant-luffa cylindrica. (?)
+.hw   pachot
+wc   2
+df   *mouth
+.hw   pachuchang
+wc   2
+df   *neat, *nice--speaking of girls, *pretty, a manner of walking
+  with noticeable hip movement
+.hw   padakdak < >
+wc   2
+df   *lie, deceit, *denial
+.hw   padarao'
+wc   2
+df   long *machete, long *knife. (S)
+.hw   padda' < >
+wc   1,2
+df   *clap, *slap, *pat; banana leaf or sheet of non-adhering paper
+  used in patting out tortillas
+cf   pampan
+.hw   paddet
+wc   2
+df   *concrete, hard *cement
+al   patdet
+cf   simento
+.hw   pader/on
+wc   2
+df   *crag, *cliff, esp. bordering the sea
+.hw   padesi
+wc   1
+df   *suffer, *bear, be forced to endure
+.hw   padok < >
+wc   2
+df   *greedy, *covetous, ravenous, eagerly desirious, having a keen
+  appetite for food or drink
+cf   gulosu, girek
+.hw   padong < >
+wc   2
+df   *smegma--the secretion of a sebaceous gland, specif. the cheesy
+  matter that collects between the glands penis and the foreskin or
+  around the clitoris and labia minora
+.hw   padr/on
+wc   2
+df   *pattern
+.hw   pagad/ot
+wc   2
+df   *paymaster
+il   Mangge i pagadot? |Where is the paymaster?
+.hw   pagagu
+wc   2
+df   type of *plant-malachra capitata. (?)
+.hw   pagamento
+wc   2
+df   *payday
+.hw   paganu
+wc   2
+df   *pagan, *heathen
+.hw   pa'gang
+wc   2
+df   type of *clam; larger than %tapon
+al   pahgang
+.hw   pagat
+wc   1
+df   *preach to, *exhort, proclaim the gospel, deliver a sermon,
+  *advise
+cf   petdika
+il   I pale' ha pagat i taotao siha. |The priest preached to the
+  people
+.hw   pa'go
+df   *now, *today
+.hw   pago' < >
+wc   1
+df   irritate *skin, to cause skin irritation, to kid by giving false
+  information
+il   Ha pago' i kannai-hu i diso'. |The diesel irritated my hands
+.hw   pa'go gi egga'an
+df   *morning--this
+.hw   pa'go manana
+wc   2
+df   *day break, morning twilight, *dawn--the first appearance of
+  light in the morning
+cf   machakchak
+.hw   pa'go na simana
+df   *week--this
+.hw   pa'go yan ayu
+df   *now and then, *sometimes, once in a while
+.hw   pagu
+wc   2
+df   type of *plant-hibiscus tiliaceus
+.hw   paguan
+wc   2
+df   *scent--give off, *odor, *aroma, *smell
+il   Paguan i fina'tinas-mu. |Your cooking gives off an odor
+.hw   paha
+wc   2
+df   *spinning smoothly
+il   Paha i tolompo-$na. |His top spins smoothly
+.hw   paharita
+wc   2
+df   small *bird (generic); *birdie
+al   paharitu
+.hw   pahariya
+wc   2
+df   *spleen
+.hw   p/aharu
+wc   2
+df   *bird (generic term)
+.hw   pahgang
+wc   2
+df   type of *clam
+al   pa'gang
+.hw   p/ahina
+wc   2
+df   *page (of paper)
+.hw   pahlo
+wc   2
+df   *mast, *pole, *antenna
+al   palu
+.hw   pahngon
+wc   1
+df   *arouse, *wake, *wake up
+al   pangon
+cf   ya'ho
+il   I buruka ha pahngon yo'. |The noise woke me up
+il   Hu pahngon i patgon para sumena. |I woke up the child for dinner
+.hw   pahong
+wc   2
+df   type of *tree-pandanus, screw pine--bears edible fruit
+cf   kafo', akgak
+zb   *pandanus, *screw pine
+.hw   pahya' < >
+wc   2
+df   *garbled speech, mumbled or unclear speech, one who does not
+  speak clearly, unclear reception of speaker's voice on radio, refers
+  to a particular kind of speech impediment where the speaker
+  substitutes the sound represented by t for the sound represented by
+  y
+al   paya'
+il   Pahya' i fino'-mu gi telefon. |Your talk on the phone was garbled
+.hw   pai
+wc   2
+df   *pie
+.hw   Pai'
+df   *nickname for Josepha
+.hw   pa'iket
+wc   2
+df   *gambling--usually cards or dice
+il   Si Andres ya-$na puma'iket. |Andy likes gambling
+.hw   paine
+wc   1,2
+df   *comb
+.hw   painen basula
+wc   2
+df   *rake--an instrument used for gathering trash or leaves around
+  the yard
+.hw   paineta
+wc   2
+df   *comb--ornamental, big comb
+.hw   painge
+wc   2
+df   last *night
+.hw   paipai
+wc   2
+df   type of *tree--hardwood, very useful for building materials
+.hw   pairastro
+wc   2
+df   *stepfather. (S)
+al   pairasto|. (G)
+.hw   paire
+wc   2
+df   *champion, *breeder--best
+.hw   paireha
+wc   1
+df   to *father, *sire, *beget, procreate, *coitus, esp. animals
+.hw   paisanu
+wc   2
+df   *countryman, fellow citizen
+.hw   p/akaka'
+wc   2
+df   *silent, *hush, be *quiet
+al   pahkaka'
+cf   mamatkilu
+il   Pakaka' guenao. |Be quiet there
+il   Pumakaka' yo' nigap gi eskuela. |I was silent at school yesterday
+.hw   pakao < >
+wc   2
+df   type of *plant-caesalpinia major; a woody climber with spiny
+  stems; *wait-a-bit
+.hw   pakcha < >
+wc   2
+df   *toucher, *thief, one who has light fingers; from %papacha
+.hw   paken fisga
+wc   2
+df   *spear gun--used in Guam
+.hw   paken goma < >
+wc   2
+df   *slingshot
+.hw   paken tokcha'
+wc   2
+df   *spear gun (commercial type)
+cf   pachinko'
+.hw   pa'kes
+wc   1
+df   *scrape, *chip, peel away, *pry loose. (R) %Hu pa'kes i acho'. |I
+  pried the rocks
+il   Ha pa'kes i kayos. |He peeled away the callus
+.hw   paketi
+wc   1,2
+df   *parcel, *pack, *package--small
+.hw   paki < >
+wc   1,2
+df   *shoot, *fire (a gun); *rifle, *pistol, *fire-arm (small)
+.hw   paki/ao
+wc   2
+df   *work fast, work *contract, fast job, cash payment in full
+cf   apretao
+il   Ma pakiao i che'cho' nigap. |They finished the job fast yesterday
+il   Cho'cho' pakiao enao. |That is a fast job
+.hw   Pakitu
+df   *nickname for Francisco
+.hw   pakke' < >
+wc   2
+df   *arching, *bending, as in the forming an arch, *curved--as
+  eyelash or buttock
+.hw   pakko'
+wc   2
+df   *blister from heat, *burn--from a fire or burning charcoal
+al   panko'
+.hw   pakngas < >
+wc   1
+df   *split (with an ax)
+cf   gachai
+.hw   pakpak
+wc   2
+df   *blistered, *exploded, *pop, burst forth with sudden violence and
+  noise, *explosion, *blister, *clap (hands), *clatter, *boom
+il   Pakpak i kannai-hu anai humugando yo' boleng. |My hand blistered
+  when I went bowling
+il   Kao un hungok i pakpak? |Did you hear the explosion? %Hu
+  na'pakpak i kannai-hu. |I clapped my hands
+.hw   paksi/u
+wc   1,2
+df   type of *food--pork or fish cooked in lard, water, and vinegar
+  plus additional seasoning
+il   Ha paksiu i mannok. |She made a chicken soup with vinegar
+il   Pumaksiu i palao'an guihan. |The woman made some fish soup with
+  vinegar
+.hw   paktek < >
+wc   2
+df   *kicker--as a dangerous horse
+.hw   pakto
+wc   2
+df   *magic power, possessed by magic power
+.hw   pakyo
+wc   2
+df   *typhoon, *storm, tropical *cyclone
+cf   papakyo
+.hw   pala
+wc   1,2
+df   to *shovel, to *spade; *shovel, *spade
+.hw   palabra
+wc   2
+df   *word, *language
+.hw   palacha'
+wc   1,2
+df   *tease; teaser, *troublesome, *troublemaker
+cf   akacha, achaka
+.hw   paladan < >
+wc   2
+df   *scar, *wheal, wound mark
+cf   maso'
+.hw   p/aladat < >
+wc   2
+df   *palate, roof of the mouth
+.hw   palaga'
+wc   2
+df   *slip, fall by a loss of footing, balance, support, etc
+cf   sulon
+il   Palaga' i kareta gi kantit. |The car fell off the cliff
+.hw   palaga hilitai
+wc   2
+df   type of *plant-desmodium umbellatum; a type of grass
+.hw   palai < >
+wc   1
+df   *smear, *rub--with grease, to *grease, spread greasy material,
+  *ointment
+il   Hu palai i kannai-$na ni mantika. |He smeared his hand with fat
+.hw   palai'i
+wc   2
+df   type of *plant-chrysopogon aciculatus. (?)
+.hw   palak$naihon
+wc   2
+df   hold and throw down, as in wrestling
+al   panak$naihon
+.hw   palakpak
+wc   2
+df   cracking noise such as thunder, shotgun; *chatterbox, *babble,
+  one who talks a lot
+cf   pakpak
+.hw   palakpak
+wc   2
+df   *chatter, run off at the mouth
+.hw   palakse' < >
+wc   2
+df   *slippery (surface)
+.hw   palakse' < >
+wc   2
+df   type of *fish-family labridae; wrasses; name for several of the
+  longer and thicker members of the wrasse family; also for family
+  scaridae, small parrot fish
+zb   *wrasse--longer and thicker than gadas, small *parrot  fish
+.hw   palanggana
+wc   2
+df   *washpan, washtub
+.hw   palangpang
+wc   2
+df   loud *noise, *fall down (noisely)
+il   Palangpang makina-$na i kareta-hu. |My car has a loud noise
+il   Palangpang yo' papa' gi gua'ot. |I fell noisely down the stairs
+.hw   palao'an
+wc   2
+df   *female, *woman
+cf   famala'oan
+il   Hu li'e' i palao'an. |I saw the woman
+il   I palao'an na katu. |The female cat
+.hw   palapala
+wc   2
+df   *shack, *hut, *shanty, roof extending from house to provide
+  shelter from sun and rain, *pavillion
+.hw   palapala
+wc   2
+df   frame for vine type vegetables with sticks criss-crossing across
+  top; used esp. for bitter melon
+.hw   palapan hilitai
+wc   2
+df   type of *plant-callicarpa candicans. (?)
+.hw   palappa < >
+wc   2
+df   *flapping noise, *rustling sound, *flapped, *flopped, splashing
+il   Pumalappa i guihan gi fi'on i boti. |The fish flopped near the
+  boat
+il   I gayu pumalappa anai gumupu asta i ramas. |The rooster flapped
+  when it flew to the branch
+il   Pumalappa i hagon hayu. |The leaves were rustling
+.hw   pa'las
+wc   1
+df   *dupe, *swindle, deceive, hoax, take advantage of the credulity
+  of a person
+cf   fa'chada'
+.hw   palaspas < >
+wc   2
+df   *splash
+il   Palaspas i guihan gi halom hanom. |The fish splashed in the water
+.hw   palasyo
+wc   2
+df   *palace, *castle, governor's house
+.hw   Palau
+wc   2
+df   islands of Palau district in Micronesia
+.hw   pale'
+wc   2
+df   *priest, *minister, parson, pastor, *preacher, ordained in
+  ministry
+.hw   paleta
+wc   2
+df   *trowel, *agitator--in washing machine
+.hw   paleta
+wc   2
+df   *palette, painter's palette
+.hw   paletan hineksa'
+wc   2
+df   rice *scoop--made of wood
+.hw   palitada
+wc   2
+df   *fight, *battle, *cockfight, combat
+cf   gayera
+.hw   palitiya
+wc   2
+df   trapezius muscle, *loin--that part of a human being or quadruped
+  on either side of the spinal column between the hip bone and the
+  shoulder; *shoulder blade
+.hw   palitu
+wc   1,2
+df   use *chopsticks; *chopstick, *stick (for stick dance), match
+  *stick
+.hw   paliyu
+wc   2
+df   *tobacco twist, unit of tobacco
+.hw   palo'po'
+wc   1
+df   *fall on--something or someone, to lie down on something or
+  someone
+.hw   palos
+wc   2
+df   type of *fish-strongylura gigantea (family belonidae); needle
+  fishes
+zb   *needle fish
+.hw   palu
+wc   2
+df   *mast, *pole
+al   pahlo
+.hw   palu
+df   *some, some more
+il   Na'i si Pete palu ni na'-mu. |Give Pete some of your food
+il   Guaha palu famagu'on gi plasa. |There are some children at the
+  plaza
+.hw   palu maria
+wc   2
+df   type of *plant-calophyllum inophyllum. (?)
+.hw   paluma
+wc   2
+df   *bird, *dove, *pigeon, slang for penis
+.hw   paluman kunao
+wc   2
+df   type of *bird-gallicolumba xanthonura, ground
+  dove--reddish-brown; it is said to be the female for %apaka'
+al   paluman agaga', paluman fache', paluman somnak
+zb   ground *dove--reddish-brown
+.hw   paluman kutbata
+wc   2
+df   type of *bird-gallixolumba xanthonura, white-throated ground dove
+al   apaka', paluman kunao
+zb   ground *dove--white throated
+.hw   paluman sinisa
+wc   2
+df   type of *bird-streptopelia bitorquata dusumieri, Philippine
+  turtle dove
+al   paluman apu, paluman odda'
+zb   *turtle dove-- Philippine
+.hw   palumat
+wc   2
+df   *dove cote, pigeon roost, *bird house
+.hw   pampan
+wc   1,2
+df   *pat repeatedly, pat gently, as a baby, dog, or tortilla dough
+cf   pada'
+.hw   pan
+wc   2
+df   *bread
+.hw   pan mames
+wc   2
+df   *bun, sweet bread
+.hw   pan royu
+wc   2
+df   *bread--twisted, toasted
+.hw   panaderia
+wc   2
+df   *bakery
+.hw   panaderu
+wc   2
+df   *baker, one who bakes bread, pastry, etc. (m)
+al   panadera |(f)
+.hw   panaguan
+wc   2
+df   type of *chicken--a rooster, black in color
+.hw   panak < >
+wc   1,2
+df   *hit--something with a bat or flat sided object, *slam, bang,
+  shut noisily; *bat, instrument for hitting
+.hw   panak lalo'
+wc   2
+df   *fly swatter
+cf   puno' lalo'
+.hw   panak tenes
+wc   2
+df   *tennis racket
+.hw   panak$naihon
+df   see &palak$naihon
+.hw   panandera
+wc   2
+df   *sow--used for breeding
+al   parandela
+.hw   panao
+wc   2
+df   type of *tree--hard wood, good for lumber
+.hw   pancho
+wc   2
+df   *raincoat, *slicker, *poncho
+cf   kaputon
+.hw   panda
+wc   2
+df   *swayback
+.hw   pandereta
+wc   2
+df   little *bell, *tambourine
+cf   kampaniya
+.hw   panel/on
+wc   2
+df   *veil, shawl that is also used to cover the head; bigger than
+  %pa$nu
+.hw   paneta
+wc   2
+df   *deck--movable (boat), removable floorboard of a boat
+.hw   paniti
+wc   1
+df   *punch, *hit with the fist, strike with the fist, *sock
+cf   dommo', seku tromponasu
+.hw   panket
+wc   2
+df   *pancake, slang for vagina
+.hw   panko'
+wc   2
+df   flat *tire, *empty. (S)
+.hw   panko'
+wc   2
+df   *blister from heat; see &pakko'
+.hw   pannas < >
+wc   1
+df   *smash flat, *flatten, cause to flatten
+.hw   panocha
+wc   2
+df   *taffy, cooled thick syrup--like sugar daddy candy
+.hw   pansa
+wc   2
+df   *rumen, *stomach, protuding belly of pregnant woman
+.hw   pansaimada
+wc   2
+df   sweet roll with butter on top
+.hw   pantal/an
+wc   2
+df   *wharf, *pier, *dock, *quay, landing for boats
+.hw   pantaya
+wc   2
+df   *lampshade
+.hw   pantek < >
+wc   2
+df   *handslap--a consequence of losing a kind of game
+.hw   pantes < >
+wc   2
+df   *panties, women's underpants
+.hw   pa$nales
+wc   2
+df   *diaper, infant's breechcloth
+cf   sade'
+.hw   pa$nelu
+wc   2
+df   *scarf, *shawl, shoulder wrap. (S)
+al   pa$nuelu
+.hw   pa$nol/on
+wc   2
+df   *shawl, mantilla
+.hw   pa$not < >
+wc   1
+df   *swallow, gulp down, *consume
+cf   pa$not ales
+.hw   pa$not ales
+wc   1
+df   *swallow (without chewing), *gulp down (without chewing)
+cf   pa$not
+il   I malangu ha pa$not ales i petduras. |The patient gulped down the
+  pill
+.hw   pa$nu
+wc   2
+df   *handkerchief, *scarf
+.hw   pa$nuelu
+wc   2
+df   *scarf
+al   pa$nelu
+.hw   pangela
+wc   1,2
+df   to strap the yoke against the neck of the bull, strap used to
+  hold the yoke in place against the neck of the bull
+.hw   panggengge'
+wc   2
+df   *fool around
+il   Basta pumanggengge'. |Don't fool around
+.hw   panglao
+wc   2
+df   *crab (generic term)
+.hw   panglao oros
+wc   2
+df   type of *crab-carpilius maculatus; golden crab
+zb   golden *crab
+.hw   panglao tunas
+wc   2
+df   type of *crab-cardisoma (gecarcinidae); land crab
+zb   land *crab
+.hw   pangon
+wc   1
+df   to *wake (someone) up, *rouse (someone)--from sleep, *awaken
+cf   ya'ho
+il   Despasio sa' un pangon i neni. |Take it easy because you might
+  wake up the baby
+.hw   pangpang
+wc   2
+df   *explode, *blast, *explosion, *concussion, shattering sound
+.hw   pao
+wc   2
+df   *odor, *smell, *scent, *aroma
+il   Pao binadu. |Deer scent
+il   Pao paopao. |Perfume odor
+il   Pao gas. |Odor of gas
+.hw   paode'do'
+wc   2
+df   type of *plant-hedyotis sp; a type of vine, medicinal
+.hw   paokeke
+wc   2
+df   type of *plant-clitorea ternatea. (?)
+.hw   paola
+wc   2
+df   *stuffed, given more than one wants or can take
+.hw   paomata' < >
+wc   2
+df   *fishy smell, fleshy *odor, such as blood, raw meat, raw egg,
+  etc; lit. raw or uncooked smell
+.hw   paopao
+wc   2
+df   *perfume, *fragrant, sweet smell
+.hw   paosa
+wc   2
+df   *slowpoke, *slothful, sluggish, moving at a slow speed
+.hw   paosadang < >
+wc   2
+df   urine *odor, smell of *urine
+.hw   paotake' < >
+wc   2
+df   type of *plant-typhonium cuspidatum. (?)
+.hw   paotake' < >
+wc   2
+df   odor of *feces, feces odor
+.hw   papa
+wc   2
+df   *pope, the holy father
+al   santo papa
+.hw   papa'
+df   *down, *below, *bottom, southward, *downward, *beneath
+.hw   p/apada
+wc   2
+df   *jowl, flesh of the lower face, *fleshy, meaty
+.hw   p/apago' < >
+wc   2
+df   *irritant--of skin, anything that causes skin irritation, kidder,
+  to kid someone by giving them false information or promise
+il   Papago' i diso'. |The diesel is an irritant
+il   Papago' hao. |You are a kidder
+.hw   p/apago' < >
+wc   2
+df   type of *plant-pseudelophantopus spicatus. (?)
+.hw   papago' halom tano'
+wc   2
+df   type of *plant-elephantopus mollis
+.hw   p/apakes
+wc   2
+df   *fingernail, *toenail, *claw, talon, *hoof
+.hw   papakyo
+wc   2
+df   *stormy, *typhoon condition
+cf   pakyo
+.hw   papaloti
+wc   2
+df   *kite
+.hw   p/apangpang < >
+wc   2
+df   type of *lobster-(family scylarridae); slipper lobster
+zb   slipper *lobster
+.hw   papao
+wc   2
+df   type of *plant-colocasia esculenta; wild *taro
+.hw   papaya
+wc   2
+df   *papaya
+.hw   papet
+wc   2
+df   *paper
+.hw   papet aseru
+wc   2
+df   *sandpaper
+.hw   papet etgue
+wc   2
+df   toilet *paper, or tissue
+cf   chirigame'
+.hw   pappa
+wc   1
+df   *strip off--bark of a tree, to *skin--an animal, to *peel off, to
+  *rip off
+il   Mapappa i lassas-hu. |My skin peeled off
+il   Hu pappa i lassas i hayu. |I peeled off the bark of the tree
+.hw   pappa < >
+wc   2
+df   *wing
+.hw   para
+wc   2
+df   *stop, *quit, *enough (command)
+cf   basta
+il   Para. |Stop (whatever you are doing)
+.hw   para < >
+df   *to, *towards (directional)
+cf   asta
+il   Para i tenda. |To the store
+.hw   para < >
+df   *future tense marker, intention
+cf   siempre. Para hu hanao asta i gipot. |I will go to the party
+.hw   para < >
+df   *for, on account of
+il   Hu cho'gue enao para hagu. |I did that for you
+.hw   para hafa
+df   *what for
+cf   pot hafa
+il   Para hafa i tapbleru gi gima'-mu? |What is the sign for at your
+  house? '
+.hw   para hafa
+df   *never mind, *forget it
+il   Para hafa este. |Never mind this
+il   Para hafa i che'cho'-mu. |Forget about your work
+.hw   para ke
+df   *indifferent, no desire
+al   para kehi
+.hw   para kehi
+df   *indifferent, no desire, forget about (something), have no
+  concern, don't care at all. (R)
+al   para ke
+il   Para kehi yo' ni na'-mu sa' ti ya-hu. |I have no desire for your
+  food because I don't like it
+.hw   para mo'na
+df   *henceforth, from now on, for or in the future
+il   Para mo'na siempre bula na uchan. |Henceforth, there will be
+  plenty of rain
+il   Para mo'na maolek mannanom gollai. |Henceforth it is good to
+  plant vegetables
+.hw   par/abola
+wc   2
+df   *parable, biblical story or fable
+.hw   parada
+wc   1,2
+df   *bet, *wager; *stake (gambling), the pot in gambling
+cf   aposta
+.hw   paradisu
+wc   2
+df   *paradise, *Eden
+.hw   parafu
+wc   2
+df   *paragraph, *clause
+.hw   para'isu
+wc   2
+df   type of *plant-melia azedarach; a type of flower
+.hw   paral/itiku
+wc   2
+df   *paralytic, *paralysis, palsy
+.hw   parandela
+wc   2
+df   *sow--used for breeding
+al   panandera
+.hw   parasi/ut
+wc   2
+df   *parachute. (G)
+al   rakka'
+.hw   parehu
+wc   2
+df   *same, *equal, alike, *similar, identical
+cf   achaigua
+il   Parehu gradon-mami yan guiya. |My grade is the same as his
+il   Parehu i lepblon-mami. |Our books are the same
+.hw   pares
+wc   2
+df   *pair, divisible by two
+.hw   pares
+wc   2
+df   *placenta, *afterbirth
+.hw   pares
+wc   2
+df   *gallop, *trot, move by *leaps
+.hw   pari
+wc   2
+df   short form for %kumpaire
+.hw   parientes
+wc   2
+df   *relative, a person connected with another by blood or marriage,
+  *kinsman, *kinswoman
+al   parentes
+.hw   Paro'
+df   *nickname for Ampara
+.hw   par/okia
+wc   2
+df   *parochial
+.hw   paroku
+wc   2
+df   *curate--of a parish
+.hw   pas
+wc   2
+df   *peace, *quiet, *silent
+.hw   pasabara
+wc   2
+df   type of *game--same as game of jacks
+.hw   pasada
+wc   2
+df   *aisle, walkway
+.hw   pasaderu
+wc   2
+df   *passage, *crossway, *path
+.hw   pasadu
+wc   2
+df   *barren, *sterile, *unfertile, used up soil, worn out land,
+  *flat--beer, coke, or any carbonated drink, *boring--from
+  repetition, loss of flavor
+cf   kansadu
+.hw   pasadura
+wc   2
+df   *lane
+.hw   pasaheru
+wc   2
+df   *passenger
+.hw   pasamanu
+wc   2
+df   *bannister, hand rail for stairs
+.hw   pas/ao
+df   *past, *after--used for telling time
+il   Tres minutos pasao las dosse. |Three minutes past twelve o'clock
+.hw   pasapotte
+wc   2
+df   *passport
+.hw   pasas
+wc   2
+df   *raisins
+.hw   pasehu
+wc   2
+df   *wander around, *tour, *stroll
+al   paseo
+il   Pumasehu yo' gi halom siuda. |I strolled in the city
+il   Hu na'pasehu si nana-hu asta Guam. |I let my mother tour Guam
+.hw   pasensia
+wc   2
+df   *patient, *lenient, yielding
+.hw   pasgua
+wc   2
+df   *easter, *Christmas
+al   paskua
+.hw   pasiadora
+wc   2
+df   *traveler, *tourist, *adventurer, *sightseer, *wanderer (f)
+cf   pasehu
+.hw   pasiad/ot
+wc   2
+df   *traveler, *tourist, *adventurer, *sightseer, *wanderer (m)
+cf   pasehu
+.hw   pasiando
+wc   2
+df   *traveling, *roving, *roaming, rambling
+il   Mampos ya-$na i sotteru i pasiando. |The young man likes
+  traveling very much
+.hw   pasiensia
+wc   2
+df   *patience, patient
+il   Na'pasiensia i korason-mu. |Let your heart be patient
+.hw   pas/ifiku
+wc   2
+df   *pacific, *peaceful, peaceful state, peace
+.hw   pasi/on
+wc   2
+df   *passion, deep feeling or excitement
+.hw   paska
+wc   2
+df   *brittle, easily broken or snapped
+.hw   pasmo
+wc   2
+df   *pneumonia, type of sickness the symptoms of which are chilling
+  and stiff joints; often associated with sudden chilling from cold
+  water or air
+.hw   pasmo
+wc   2
+df   *faded (color), partially cooked starch foods, such as potatoes,
+  yams, rice, when an insufficient amount of water has been used
+.hw   pasmo
+wc   2
+df   *fade, *lose color, *pale, lose brightness, become dull
+.hw   pastahi
+wc   2
+df   *pasture, *grazing land--fenced
+al   pastai
+.hw   pastet
+wc   2
+df   *pie, *turnover--meat filled
+.hw   pasto
+wc   1,2
+df   *pasture, *graze, feed on growing grass, put cattle or flocks to
+  graze
+il   Si Jose ha pasto i guaka gi sabaneta. |Joseph put the cow to
+  graze in the plain
+il   La'la' i pasto gi halom kollat. |The pasture is green inside the
+  fence
+.hw   past/ot
+wc   2
+df   *herder, *shepherd
+.hw   pasturisa
+wc   1
+df   *pasteurize
+al   pasterisa
+.hw   pasu
+wc   2
+df   *urn
+.hw   pasu
+wc   2
+df   *story, *narrative, biography, autobiography, novel
+.hw   pasu
+wc   2
+df   *pace, *footstep, *step
+.hw   pat
+wc   2
+df   *pair, *couplet, match, twosome
+cf   pares
+il   Guaha ga'-hu un pat paluma. |I have a pair of birds (a male and a
+  female)
+il   Mamahan yo' dos pat sapatos. |I bought two pairs of shoes
+.hw   pat < >
+df   *or--a co-ordinating particle that marks an alternative
+il   Hunggan pat ahe'. |Yes or no
+.hw   patang < >
+wc   2
+df   *blockade
+al   pattang
+.hw   patas
+wc   2
+df   *foot, *limb, *leg--of animal
+.hw   patas ga'ga'
+wc   2
+df   *paw, foot of an animal with claws
+.hw   patche
+wc   1
+df   *mend, *patch up, punch, hit (slang)
+cf   limenda
+.hw   patdet
+wc   1,2
+df   *cement, concrete
+al   paddet
+.hw   patek
+wc   1
+df   *kick, strike with foot
+.hw   patente
+wc   2
+df   *patent, *evident, open for public perusal
+il   I pale' ha na'patente i Santisimu. |The priest put the Eucharist
+  out in the open
+.hw   patgon
+wc   2
+df   *child, *infant, *kid, *baby
+cf   neni, famagu'on
+.hw   patgon hugupao
+wc   2
+df   type of *fish-naso sp. (Acanthuridae); small surgeon fish
+.hw   patgon kabayu
+wc   2
+df   *colt, *pony
+.hw   patgon katu
+wc   2
+df   *kitten, kitty
+.hw   patgon t/ataga'
+wc   2
+df   type of *fish-naso unicornis (acanthuride)
+al   called guasa|. Small surgeon fish
+zb   surgeon *fish--small
+.hw   patiu
+wc   2
+df   *patio
+.hw   patlinu
+wc   2
+df   *godfather, *godparent
+.hw   patma
+wc   2
+df   *palm (of the hand)
+.hw   patma
+wc   2
+df   *palm (of coconut), blessed Palm Sunday
+.hw   patma
+wc   2
+df   *cigarette--hand rolled
+.hw   patmada
+wc   1
+df   *slap, strike with the open hand
+.hw   patnitos
+wc   1,2
+df   *heart--coconut palm, cut *heart out of coconut palm
+al   patmitos
+.hw   patot < >
+wc   2
+df   *weakened (person)
+.hw   patriatka
+wc   2
+df   *patriarch
+.hw   patriotiku
+wc   2
+df   *patriotism, love of one's country
+.hw   patr/on
+wc   2
+df   *patron, *protector
+.hw   pattang < >
+wc   1
+df   *block, interfere with, *blockade
+al   patang
+cf   taggam
+.hw   patte
+wc   1,2
+df   *share, *divide, *apportion; *part, *portion
+.hw   pattera
+wc   2
+df   *midwife, *obstetrician, woman assisting in childbirth
+.hw   patteru
+wc   2
+df   *obstetrician, a doctor assisting in childbirth (m)
+.hw   pattida
+wc   2
+df   *party (political), *share, *dividend, *portion, *part, *ration
+cf   rasion
+.hw   pattikul/at
+wc   2
+df   *particular, fastidious, squeamish, hard to please
+.hw   patto
+wc   2
+df   *birth, *delivery, *labor, *parturition
+il   Maolek patto-$na i puetka. |The delivery of the sow was good
+.hw   patuleku
+wc   2
+df   *bow-legged (m), *pigeon-toed
+al   patuleka |(f)
+.hw   paya'ya' < >
+wc   2
+df   *soaring, *gliding, float in the air at random
+il   Pumaya'ya' i papet gi aire anai guinaife ni manglo'. |The paper
+  floated in the air when the wind blew it
+.hw   paya'ya' < >
+wc   2
+df   type of *bird-puffinus tenuirostrio; short-tailed shearwater
+zb   *shearwater--short-tailed
+.hw   paya'ya' < >
+wc   2
+df   type of *bird-puffinus iherminieri dichrous; dusky shearwater
+zb   *shearwater--dusky
+.hw   payesyes
+wc   2
+df   type of *bird-swiftlet; lives around caves and come out at
+  sundown
+al   paye'ye'
+zb   *swiftlet
+.hw   paye'ye'
+df
+cf   payesyes
+.hw   payon
+wc   2
+df   *accustomed, *habitual, *usual, *customary, *used to
+il   Payon yo' chumocho hineksa'. |I am accustomed to eating rice
+.hw   payon duendes
+wc   2
+df   type of *plant-mushroom
+zb   *mushroom (generic)
+.hw   payu
+wc   2
+df   *umbrella, *parasol
+.hw   payuni
+wc   1
+df   *accustom, be *accustomed, *habituate, *familiarize, make
+  familiar by use, acquainted, know well
+al   apayuni
+il   Hu payuni este esta i kareta-hu. |I became accustomed already to
+  my car
+.hw   pe
+df   *p--letter
+.hw   Pechang
+df   *nickname for Priscilla
+.hw   pechao
+wc   2
+df   *dart, *zoom, *dash (away), a quick movement, flirt
+cf   chispas
+.hw   pecho
+wc   2
+df   *chest, mainly the fleshy part of the chest
+cf   ha'of
+.hw   pechuda
+wc   2
+df   big *breast (f), *busty, referring to a woman with a large breast
+cf   lechera
+.hw   pechudu
+wc   2
+df   big *chest (m); *chesty (person)
+.hw   pedde
+wc   2
+df   *weak, *weakling, *feeble, *frail
+al   petde
+cf   dangnge', dolle
+.hw   pega
+wc   1
+df   *place, *put, *stick on
+il   I polisia ha pega i tapbleru gi kanton chalan. |The policeman
+  placed the traffic sign on the side of the road
+.hw   pega ni duru
+wc   2
+df   *spanking, hard whipping
+.hw   pegge'
+wc   2
+df   type of *fish-generic term for small fish. (S)
+.hw   peha
+wc   2
+df   *compress--hot or cold, applied to a sore or bruise
+.hw   pekad/ot
+wc   2
+df   *sinner
+.hw   pekas
+wc   2
+df   *spotted, *freckle, *mildew
+cf   chatko, mancha, pento, pellon
+.hw   pekka'
+wc   2
+df   *dignity
+.hw   pekke
+wc   1
+df   *peg, *tuck in, fasten, keep fixed, insert. (S) %Hu pekke i
+  chinina-hu. |I tucked in my shirt
+.hw   pekno'
+wc   2
+df   *murderous, *murderer, capable of killing, *homocidal
+.hw   pellon
+wc   2
+df   *spotted--usually refers to pigs
+cf   pento
+.hw   peludu
+wc   2
+df   *hairy, *wooly
+cf   mepplo
+.hw   pena
+wc   2
+df   *punishment, *penalty
+cf   kastigu
+.hw   pena
+wc   2
+df   to *haunt, visit habitually as a supposed spirit or ghost
+il   Munga macho'gue ti maolek sa' un na'pena si tata-mu. |Don't do
+  something bad or you will cause your father to haunt
+.hw   penche'
+wc   1,2
+df   *pliers, hold with pliers. (S)
+.hw   pendehu
+wc   2
+df   *rascal, rogue, mischievous
+al   pendeha |(f)
+cf   mahaderu, pikaru
+.hw   pendiente
+wc   2
+df   *permanent, immovable
+al   prendiente
+.hw   pendiks
+wc   2
+df   *appendicitis
+.hw   penka
+wc   2
+df   *coconut shoot--just before it opens up
+.hw   pennga'
+wc   2
+df   *custom, way of doing things, a person's custom
+al   pengnga'
+.hw   pennga'
+wc   2
+df   *big, used in comparing size of material things
+il   Pennga'$na este kinu ayu. |This one is bigger than that one
+.hw   pens/et
+wc   2
+df   *paintbrush
+.hw   pensiana
+wc   2
+df   *louver, as in a window
+al   petsiana
+.hw   penta
+wc   1
+df   *paint, *color, cover with coloring matter, *draw, *design
+cf   yunga'
+.hw   pentan labios
+wc   2
+df   *lipstick
+al   bene'
+.hw   Pentekostes
+wc   2
+df   *pentecost, seventh Sunday after Easter, the descent of the Holy
+  Spirit on the apostles
+.hw   pento
+wc   2
+df   *spotted, *pinto, marked with spots
+cf   pellon
+.hw   pentot
+wc   2
+df   *painter, artist
+.hw   pentura
+wc   2
+df   *paint, coloring, the dried film of paint
+.hw   pengnga'
+wc   2
+df   *custom
+al   pennga'
+.hw   pengua
+wc   2
+df   type of *plant-macaranga thompsonii. (?)
+.hw   Pepe
+df   *nickname for Jose
+.hw   p/epeska
+wc   2
+df   *fisherman, *hunter
+al   pipeska
+.hw   peras
+wc   2
+df   *pear
+.hw   peredika
+wc   1
+df   *annoy, *bother
+il   Munga pineredika nu este na problema. |Don't let this problem
+  bother you
+.hw   peregrinu
+wc   2
+df   pilgrim
+al   piligrinu
+.hw   perfekto
+wc   2
+df   *perfect, *exactly
+al   prifekto
+.hw   periodiku
+wc   2
+df   *periodic, again and again at regular intervals
+.hw   p/eritu
+wc   2
+df   *appraise, put value on
+.hw   pes
+wc   1
+df   impose *diet, prohibit *eating--of certain foods; a restrictive
+  diet, usually prescribed by a herb doctor, to aid in curing an
+  ailment. (S)
+cf   dieta
+il   Mapes yo' chumocho gamson. |I was prohibited to eat octopus
+il   I mediku ha pes yo' chumocho ma'asen. |The doctor prohibited me
+  to eat salty food
+.hw   pesa
+wc   1
+df   *weigh, *hoist
+.hw   pesada
+wc   2
+df   *weight
+cf   minakkat
+il   Kuanto pesada-mu? |What is your weight?
+.hw   pesadiya
+wc   2
+df   *nightmare, bad *dream
+al   pesatdiya, pisadiya
+.hw   pesad/ot
+wc   2
+df   *scale, weighing machine, balance
+.hw   pesadumbre
+wc   2
+df   *grief, *sorrow
+.hw   pesatdiya
+wc   2
+df   *nightmare
+al   pesadiya
+.hw   peska
+wc   1
+df   to *fish, catch *fish, *hunt
+cf   pumeska
+il   Hanao ya un peska guihan. |Go and catch fish
+.hw   peskadores
+wc   2
+df   *fishermen, *hunters
+.hw   peskad/ot
+wc   2
+df   *fisherman, *hunter
+.hw   pesson
+wc   2
+df   *scraper, heavy equipment vehicle which scrapes, *steam *roller
+.hw   peste
+wc   2
+df   *plague, *pest, *epidemic, *scourge
+.hw   pesu
+wc   2
+df   *dollar, peso, unit of money
+.hw   petbetso
+wc   2
+df   *rascal, *rogue, tricky fellow, jocular, *scoundrel, knave,
+  villain
+al   petbetsa
+cf   pikaru
+il   Petbetso si Juan na patgon. |John is a roguish boy
+.hw   petde
+df   see &pedde
+.hw   p/etdidu
+wc   2
+df   *loss
+.hw   petdidu
+wc   2
+df   *lost, *strayed
+.hw   petdig/on
+wc   2
+df   *pellet--as in shotgun shells
+al   pidigon
+.hw   petdika
+wc   1
+df   *insist, *persist, *urge, demand, press earnestly. (R)
+cf   insiste
+.hw   petd/on
+wc   2
+df   *forgiveness, *pardon
+.hw   p/etduras
+wc   2
+df   *pill
+al   petdulas, pitduras
+.hw   pethudika
+wc   2
+df   *prejudiced
+.hw   pethuisiu
+wc   2
+df   *harm, *loss
+.hw   petlas
+wc   2
+df   *pearl, some types of jewelry, such as pearl necklace, earrings
+.hw   petmamente
+wc   2
+df   *permanent, durable, impermeable, steady, lasting, enduring
+al   petmanente
+.hw   petmanente
+wc   2
+df   permanent
+al   petmamente
+.hw   petmisu
+wc   2
+df   *permission, permit, authorization
+.hw   petmiti
+wc   1
+df   *permit, *consent, *allow, give permission for
+cf   konsiente
+il   Ha petmiti yo' i ma'estra lumasgue i lapes-hu. |The teacher
+  permitted me to sharpen my pencil
+.hw   petna
+wc   2
+df   *thigh
+al   pietna
+.hw   petno
+wc   2
+df   *bolt--usually threaded for a nut
+al   petno basante
+.hw   petroliu
+wc   2
+df   *petroleum, *kerosene
+.hw   petsan
+wc   2
+df   *rush violently, *dash, *squirt, dart, zoom, flash
+cf   besbes
+il   Petsan i ga'lagu huyong gi petta. |The dog rushed violently out
+  through the door
+il   Petsan i hanom gi grifu. |The water squirted out of the faucet
+.hw   petsiana
+wc   2
+df   *louver
+al   ponsiana
+.hw   petsigi
+wc   1
+df   *persist, *continue, *pursue, esp. with intent to harm someone
+il   Lalalo' nu guahu ya ha petsigi yo' para u na'lamen yo'. |He was
+  mad at me and he continued to find a way to harm me
+.hw   petsona
+wc   2
+df   *person
+.hw   pettanesi
+wc   2
+df   *pertinent, to the point
+.hw   pi'ai
+wc   2
+df   *foot (measurement). (R)
+al   pie
+.hw   pianu
+wc   2
+df   *piano, musical instrument
+.hw   pi'ao
+wc   2
+df   type of *plant-bambusa arundinacea; *bamboo (general)
+.hw   pi'ao lahi
+wc   2
+df   thorny *bamboo
+al   pi'ao tituka'
+.hw   pi'ao palao'an
+wc   2
+df   type of *plant-bambusa arundinacea; *bamboo--smooth
+.hw   pi'ao tituka
+wc   2
+df   type of *plant-bambusa blumeana; *bamboo--thorny
+al   pi'ao lahi
+.hw   pichipichi
+wc   2
+df   *talkative, *garrulous
+.hw   pichura
+wc   2
+df   big *breast
+al   pechuda
+.hw   pidasitu
+wc   2
+df   *small portion, *tiny part, little *bit of, *particle
+il   Hu na'i i patgon un pidasitu gi kande. |I gave the child a tiny
+  portion of candy
+.hw   pidasu
+wc   2
+df   *piece, *part, *hunk, *crumb
+cf   empe'
+.hw   piderecho
+wc   2
+df   wall *stud, prop, support for wall construction
+.hw   pidig/on
+wc   2
+df   *pellet
+al   petdigon
+.hw   pie
+wc   2
+df   *foot (measurement)
+.hw   piesa
+wc   2
+df   *scattered (in large numbers), many of something covering an area
+  or spread out
+il   Piesa ha' guihan i halom tasi. |Fish are all over the sea
+il   Piesa taotao gi kanton tasi giya Waikiki. |In Waikiki there are
+  people all over the beach
+.hw   piesan magagu
+wc   2
+df   *bolt--of cloth
+.hw   piesan met/at
+wc   2
+df   *metal sheet
+al   teppang
+.hw   pietna
+wc   2
+df   *thigh, upper part of leg of any two-legged animal, refers only
+  to the back legs of a four-legged animal
+al   petna
+cf   chachaga'
+.hw   piga'
+wc   2
+df   type of *plant-alocasia indica; *taro--acrid, not edible
+.hw   piga' palayi
+wc   2
+df   type of *plant-crinum asiaticum; type of *taro
+.hw   pigo'
+wc   2
+df   *sediment, *deposit, *dregs, suds, left over after evaporation or
+  filtering process
+.hw   pika
+wc   1
+df   *mince, *chop, *cut into slices, cut by striking esp. repeatedly
+  with a sharp instrument
+cf   taktak
+il   Hu pika i ensalada. |I chopped up the salad
+.hw   pika
+wc   1,2
+df   *burn (with hot pepper); *hot (spicy)
+il   I denne' ha pika i pachot-hu. |The pepper burned my mouth
+il   Pika na donne'. |It is a hot pepper
+il   Pika i na'-hu. |My food is spicy hot
+.hw   pikad/ot
+wc   2
+df   *sinner
+.hw   p/ikaru
+wc   2
+df   *rascal, *rogue, tricky fellow, jocular, *scoundrel, knave,
+  villain
+al   pikara |(f)
+cf   petbetso
+il   Pikaru hao. |You are a rascal
+.hw   pikatdiha
+wc   2
+df   *villainy, roguery, knavery, *villain, *mischievous, bad deed,
+  *perverse
+al   pikatdia
+il   Bula na pikatdiha gi puenge. |There are lots of mischievous deeds
+  at night
+.hw   pik/e
+wc   2
+df   *pique, type of cloth material
+.hw   piknik
+wc   2
+df   *picnic
+il   Pumipiknik siha. |They went on a picnic
+.hw   piku
+wc   2
+df   gunny *sack, sack which holds 200 pounds or more
+.hw   piku
+wc   2
+df   *beak, *bill (of a bird), or of some other animal, as a turtle
+.hw   piku
+wc   2
+df   *pick (tool), *hoe
+cf   sakapiku
+.hw   piku
+df   little *more, over, a little bit over, plus some small amount;
+  fr; span. poko
+il   Tres pesos i piku. |Three dollars and some cents
+il   Dos libras i piku. |A little over two pounds
+.hw   pikue
+wc   2
+df   type of *plant-averrhoa bilimbi. (?)
+.hw   pila
+wc   2
+df   *basin--for holy water by the front door of a church
+.hw   pilapat
+wc   2
+df   *pile--of grass or wood in preparation for burning or hauling
+.hw   Pileng
+df   *nickname for Jose
+.hw   pili'ao
+wc   2
+df   *welt, *weal, *wheal
+.hw   piligrinu
+wc   2
+df   *pilgrim, *wanderer
+al   piligrina |(f). Also &peregrinu
+.hw   piligro
+wc   2
+df   *peril, *danger, jeopardy, *risky, *dangerous, *perilous
+il   Piligro drumaiba gi puenge. |It is dangerous to drive at night
+.hw   piligrosu
+wc   2
+df   *dangerous, *hazardous, *precarious, *perilous, *risky
+.hw   pilon dulili
+wc   2
+df   type of *chicken--similar to Plymouth rock
+al   boremos
+zb   *plymouth rock
+.hw   pilong
+wc   2
+df   great *chief, most influentual person in a community, *champion.
+  (S)
+.hw   pilota
+wc   2
+df   *dumpling--made from flour of %fadang |or wheat
+.hw   pilotu
+wc   2
+df   *pilot, *guide
+.hw   pimentos
+wc   2
+df   sweet *pepper, pimento
+.hw   pimienta
+wc   2
+df   *pepper, Spanish pepper
+.hw   Pin
+df   *nickname for Jose
+.hw   pinadesi
+wc   2
+df   *agony, pangs of death, *suffering, *pain, *misery
+.hw   pinagat
+wc   2
+df   *sermon, *preaching, *gospel, *advice, *counsel
+.hw   pinalakse' < >
+wc   2
+df   *fluent, *voluble, smooth talker
+.hw   pinalakse'guan
+wc   2
+df   slip of *tongue, to slip away against one's intentions or plans
+il   Pinalakse'guan yo' ni fino'-hu. |My word slipped out from my
+  mouth (unintentionally)
+.hw   pinalala
+wc   2
+df   *rush, *hurry, *dash, *hasten
+il   Pinalala i estudiante asta i eskuela. |The student rushed to
+  school
+.hw   pinalao'anan
+wc   2
+df   effeminate man, male person with feminine characteristics
+.hw   pina'lek < >
+wc   2
+df   cause *dizziness, dizziness--caused from something eaten, sour
+  stomach
+il   Pina'lek i patgon ni amot. |The child got dizzy from the medicine
+.hw   pinat
+df   *too much, *excess of, a lot of, plenty of, lots of, mostly
+il   Pinat asukat i gimen-mu kafe. |There is too much sugar in your
+  coffee
+il   Pinat i restaurant yo' nai gumimen. |I drink mostly at the
+  restaurant
+.hw   pinatokso'
+wc   2
+df   *hilly
+.hw   pinatu < >
+wc   2
+df   swollen *scrotum, swollen *testicles--temporary
+.hw   pinayon < >
+wc   2
+df   *experience, *skill
+cf   payon
+.hw   pinayongguan
+wc   2
+df   *habitual
+il   Pinayongguan mama'baba. |He is habitually foolish
+.hw   pincho
+wc   2
+df   *tweezers, *pincers
+cf   tinasa
+.hw   pineddong atdao
+wc   2
+df   *sundown
+al   pineddong somnak
+.hw   pineddong somnak
+wc   2
+df   *sundown
+al   pineddong atdao
+.hw   pinekkat
+wc   2
+df   *walk, *stroll
+cf   pokkat
+.hw   pineksai
+wc   2
+df   *propagation
+cf   poksai
+.hw   pinekso'
+wc   2
+df   *feces--hard
+.hw   pine'lo
+wc   2
+df   *thing--that is placed, *object--which has been placed
+il   Masa i pine'lo-ku mangga. |The mango which I placed was ripe
+il   Machule' i pine'lo-ku. |The object that I put aside was taken
+.hw   pine'lo
+df   *presumption, *presume, assume, assumption, thought, presuming
+  (opinion), usually used with possessive type pronouns
+il   Pine'lo-ku na hagu humanao asta Guam. |I thought you were the one
+  who left for Guam
+il   Pine'lo-mu na ume'essitan yo'. |You presumed I was joking
+.hw   pinenta
+wc   1
+df   *picture, *design, *painting, drawing
+cf   litratu
+.hw   pinepble
+wc   2
+df   *poverty
+cf   popble
+.hw   pinetsigi
+wc   2
+df   *persecution, *pursuit
+cf   petsigi
+.hw   p/inigan
+wc   2
+df   *cinder, *ember, *charcoal, a glowing fragment of coal, metal,
+  etc
+.hw   pinini
+wc   2
+df   *refusal, *rejection
+cf   puni
+.hw   pinino' maisa'
+wc   2
+df   *suicide, person who commits suicide
+.hw   pinipon
+wc   2
+df   *group of, *bunch of
+al   pupon
+il   Pinipon otdot. |Ant hill
+.hw   pinitensia
+wc   2
+df   *penance, *atonement
+.hw   piniti
+wc   2
+df   *sad, *grief, *anguish, *pain, *sorrow, *mourn
+cf   triste
+il   Piniti yo' anai humanao hao. |I was sad when you left
+.hw   pinitiyi
+wc   1
+df   *grieve for, *lament
+cf   piniti
+.hw   pinitiyiyi
+wc   2
+df   *sympathizing, *grateful
+.hw   Pinke'
+df   *nickname for *Jose--used for small boys
+.hw   Pinkile'
+df   *nickname for Jose
+.hw   pinu
+wc   2
+df   type of *tree--pine; fir tree
+zb   *pine tree
+.hw   pi$na
+wc   2
+df   type of *plant-ananas comosus; *pineapple
+.hw   Ping
+df   *nickname for *Jose
+.hw   pingga
+wc   1
+df   *carry (something)--by using a stick on the shoulder of two or
+  more people
+cf   osngan
+.hw   pi/on
+wc   2
+df   *checker, the round object used in the game of checkers; disc or
+  any object used to cover numbers in bingo game
+il   Malingu un pion. |One of the checkers is lost
+.hw   pi'os
+wc   2
+df   type of *fish-family mugilidae; mullet, notably slender
+zb   *mullet--very slender
+.hw   pipa
+wc   2
+df   large *barrel
+.hw   p/ipenta
+wc   2
+df   *painter
+.hw   p/ipeska
+wc   2
+df   *fisherman, *hunter
+al   pepeska
+.hw   pipet
+wc   1
+df   *lead (by the hand), *guide (by the hand)
+cf   esgaihon
+il   Hu pipet i bachet gi chalan. |I led the blind person by the hand
+  on the road
+.hw   p/ipino'
+wc   2
+df   *assassin, *killer, *murderer
+.hw   pipinu
+wc   2
+df   type of *plant-cucumis sativus; *cucumber, type of *melon
+.hw   pipitas
+wc   2
+df   *seed, *nut
+cf   simiya
+.hw   pipong
+wc   2
+df   *ridge (of roof), peak of roof
+al   pupong
+.hw   pirada
+wc   2
+df   *nonsense, *nuisance
+.hw   pirata
+wc   2
+df   *pirate
+.hw   pire'
+wc   2
+df   *harelip, a congenitally divided lip, like that of a hare, or
+  this deformity
+cf   a'pe'
+.hw   pisadiya
+wc   2
+df   *sleep walking, *somnambulism, *nightmare
+al   pesadiya
+.hw   pisagon
+wc   2
+df   *frequent urge to urinate, having difficulty in urinating
+.hw   pisao
+wc   2
+df   *fishing pole
+.hw   pisara
+wc   2
+df   *blackboard, writing board
+.hw   pistola
+wc   2
+df   *pistol, *revolver
+cf   rubetbet
+.hw   piston
+wc   2
+df   *piston, movable disk or cylinder
+.hw   pisu
+wc   1,2
+df   put in (a floor); *floor, *platform
+cf   satge
+.hw   pitduras
+wc   2
+df   *pill
+al   petduras, petdulas
+.hw   Piti
+df   village in central Guam
+.hw   pitisi/on
+wc   2
+df   *petition, *entreaty, solemn request
+cf   ginagao
+.hw   p/ituma
+wc   2
+df   *stick--used in %batu| game, target when pitching coins, marbles,
+  horseshoes, or stones
+al   tangganu
+.hw   plaito
+wc   2
+df   *fuss, *trouble, *quarrel, *worry, inconvenience,
+  troublesomeness, disadvantage
+cf   atborotu, enkebukao, yinaoyao
+.hw   plaka
+wc   2
+df   *record (phonograph), *reel, a strip of motion picture film,
+  wound on a spool
+.hw   planas
+wc   2
+df   *plains
+.hw   planasos
+wc   1
+df   *beat up, *wallop, *knock down, *smack, *hit, *slug, spank, whip
+cf   yagai, sapblasos, saolak
+.hw   plancha
+wc   2
+df   sheet *metal, *tin
+.hw   planeha
+wc   1
+df   *plan, form a plan
+al   planea
+.hw   planeta
+wc   2
+df   *planet
+.hw   planta
+wc   1
+df   *set up, *set, *fix in position
+cf   pripara, sahyan
+il   Hu planta i lamasa. |I set the table
+il   Ha planta i lasu. |He set the trap
+.hw   planta i lamasa
+wc   1
+df   *set the table
+.hw   plantasma
+wc   2
+df   *ghost, *spectre, phantom
+il   Manli'e' yo' plantasma gi painge. |I saw a ghost last night
+.hw   plantet
+wc   2
+df   *plant nursery
+.hw   plantiyas
+wc   2
+df   *mold, model, form, template
+il   Fama'tinas plantiyas para i satge. |Make a form for the
+  foundation
+.hw   plantiyas
+wc   2
+df   inner sole of shoe or slipper
+.hw   planu
+wc   2
+df   *plan, *design, *plot, *scheme, *project
+.hw   plasa
+wc   2
+df   *plaza, *field, *court
+.hw   plasan batkon aire
+wc   2
+df   *airport, *airstrip, *airfield, *terminal
+.hw   plasta
+wc   1
+df   *bandage, to apply a poultice to, to soak wound in liquid
+cf   emplasta
+.hw   plastek < >
+wc   2
+df   *plastic, *plasticity
+.hw   plasu
+wc   1
+df   *engagement period, the length of time set by the parents between
+  announcement of engagement and wedding
+il   Hu plasu si Juan un a$nu. |I gave Juan a year's time of
+  engagement
+.hw   plasu
+wc   2
+df   *excuse--false, make believe story, episode, meaningless story,
+  story making. (S)
+al   eskusa
+il   Ya-hu i plasu-$na nigap. |I liked his false excuse yesterday
+il   Basta i plasu-mu guenao. |Stop your make-believe story there
+.hw   plata
+wc   2
+df   *silver, silver (as a form of money)
+cf   salape', kopble
+.hw   platea
+wc   1
+df   *silver plate, cover with silver
+il   Hu platea i na'yan siha. |I silver-plated the dishes
+.hw   plateru
+wc   2
+df   *silversmith
+.hw   platitos
+wc   2
+df   type of *plant-polyscias scutellaria; a type of flower
+.hw   platitu
+wc   2
+df   *saucer, *plate--small, usually used to mix hot sauce
+.hw   plat/on
+wc   2
+df   *platter, large plate--having oval shape
+.hw   platu
+wc   2
+df   *plate, *dish
+.hw   pleges
+wc   2
+df   *pleat
+il   Prensan maolek i pleges. |Press the pleat well
+.hw   plegu
+wc   2
+df   *page, *sheet--of paper
+.hw   pliegu
+df
+il   Plegu
+.hw   plimenta
+wc   2
+df   *pepper (ground), the fruit of the piper nigrum species
+al   primienta
+.hw   plinata na kulot
+wc   2
+df   *silvery, containing silver color. (R)
+al   kulot salape'
+.hw   plomisu
+wc   2
+df   made of lead, *leaden
+.hw   plomu
+wc   2
+df   *lead, *sinker--used on fishing net or line
+.hw   plomuyi
+wc   1
+df   put *sinker on--fishing line, put weights on a fishing net or
+  line
+il   Hu plomuyi i talaya-hu. |I put sinkers on my throwing net
+.hw   pluma
+wc   2
+df   fountain *pen, ball point pen
+.hw   poblekanu
+wc   2
+df   *poor people--biblical
+al   publikanu
+.hw   po'dak
+df   *adolescent female, *protruding, *sprouting, *budding, refers
+  especially to developing breasts or buttocks
+.hw   po'dang
+wc   2
+df   *buttocks--having big
+.hw   poddak
+wc   1,2
+df   *depimple, *squeeze pimple
+al   potdak
+cf   fokse
+.hw   poddong
+wc   2
+df   *fall down, *drop, *collapse, *flunk, *stumble and fall, cease to
+  be erect, fail in school grades
+cf   basnak
+.hw   pohne
+wc   1,2
+df   to *smoke out--someone or something, act of *smoking out--someone
+  or something. (S)
+cf   fohne
+.hw   pokka'
+wc   1
+df   *shatter, *crack open, *abortion
+.hw   pokkat
+wc   2
+df   *pace, *step, *footstep, *gait
+cf   mamokkat
+.hw   pokpok
+wc   2
+df   *swelling, *bulge, *boil--on skin
+cf   bokka', bocha
+.hw   poksai
+wc   1
+df   *paddle, *propel, *row
+cf   tulos
+il   Hu poksai i galaide asta i mama'te. |I paddled the canoe to the
+  reef
+.hw   poksai
+wc   1
+df   *raise, *nurture, *breed
+il   Hu poksai i ga'-hu gi pastai. |I raised my pet cattle at the
+  pasture
+.hw   pokse'
+wc   2
+df   type of *plant--fiber tree (type of hibiscus)
+zb   *fiber tree; a type of hibiscus tree with fibrous bark  used for
+  making rope, having yellow blossom
+.hw   pokse'
+wc   2
+df   *fibre--from %pagu| tree, used for tying and lashing things
+  together
+.hw   poksen
+df
+cf   poksion
+.hw   poksi/on
+wc   2
+df   *stink, smell bad, malodorous, anything that becomes spoiled or
+  begins to stink from soaking in liquid too long. (R)
+al   poksen
+.hw   pokto
+wc   1
+df   cause *jilting
+al   potto
+.hw   polainas
+wc   2
+df   *legging--wrapping legs with a strip of cloth, as a Japanese
+  soldier's uniform
+.hw   polisia
+wc   1,2
+df   *guard, *patrol; *police, *constabulary
+.hw   polista
+wc   2
+df   *working age
+.hw   pol/itiku
+wc   2
+df   *political, of or pertaining to politics
+.hw   po'lo
+wc   1
+df   *place, *set, *arrange, *establish, *put, *invest
+cf   dipusita, sa'ang
+.hw   po'lo ya
+df   *let, well then, leave it up to
+cf   pues po'lo
+il   Po'lo ya guahu bai hu hanao para Guam. |Let me be the one to go
+  to Guam
+.hw   po'lon$naihon
+wc   1
+df   *delay, *detain, *hold up, set aside for a while
+.hw   pon
+df   contracted form of %para un|, future marker plus pronoun
+.hw   ponedera
+wc   2
+df   brood *hen
+al   punidera
+.hw   ponne
+wc   1,2
+df   to *lure--coconut crabs by smearing coconut meat on a tree or
+  similar object so that odor will attract the crabs, *bait--for
+  coconut crab, stale coconut meat
+il   Hu ponne i sabana gi painge. |I smeared coconut as a lure at the
+  field last night
+il   Fama'tinas ponne. |Make a lure for coconut crab
+.hw   ponsiana
+wc   2
+df   *louver. (R)
+al   petsiana, pensiana
+.hw   pontan
+wc   2
+df   *coconut--ripe, usually refers to that which has fallen from the
+  tree
+cf   gafo'
+.hw   pongga
+wc   1
+df   *top--placement of, *marble--placed in position to be struck
+il   Hu pongga i tolompo-ku. |I placed my top in the striking zone to
+  be hit
+.hw   pongle
+wc   1
+df   to *cage, to *confine, to *box in, to *jail
+.hw   pongpong
+wc   2
+df   *scum, any solid-like substance floating on top of liquid, dirty
+  matter on surface of liquid, such as dust or soot; not fungus
+cf   poppo
+il   Pinengpungi i na'-hu kalamai. |There are particles on my corn
+  pudding
+.hw   popble
+wc   2
+df   *poor, *needy, *indigent, *impoverished, scanty, inadequate,
+  barren, sterile
+.hw   poppo
+wc   2
+df   *scum, powder substance from a decayed plant,
+  *dropping--termites, dirty substance on top of liquid such as dust,
+  or soot; not fungus
+al   popo
+cf   pongpong
+.hw   populasi/on
+wc   2
+df   *population
+.hw   poresu
+df   for that reason
+al   potesu
+il   Poresu na taiguenao lina'la'-hu gi tano'. |For that is the reason
+  for my living in the world
+.hw   pos
+df   *then; alternate form of %pues
+.hw   posa
+wc   1
+df   *pose--as for a picture
+.hw   posa
+wc   1,2
+df   *handcuff
+.hw   posipble
+wc   2
+df   *possible, can be done, probably
+il   Posipble macho'gue. |It is possible to be worked out
+.hw   postisu
+wc   2
+df   *prosthesis; the addition to the human body of some artificial
+  part, as a leg, eye, or tooth; *wig
+il   Maolek$na yanggen un na'setbe i postisu-mu. |It is better if you
+  use your artificial limb
+.hw   postisu
+wc   2
+df   *artificial
+.hw   postre
+wc   2
+df   *pastry
+il   Nahong ha' yo' ni postre na ogga'an. |Pastry is enough for me in
+  the morning
+.hw   postura
+wc   2
+df   *posture, pose of a model or figure
+il   Pumostura yo' nigap. |I posed yesterday
+.hw   posturayi
+df   *pose for. (S)
+cf   pumos
+il   Hu posturayi i litratu. |I posed for the picture
+.hw   pot
+df   *because, on *account of, for the sake of, *about, *of
+cf   ni, nu
+il   Humanao yo' para i espitat pot malangu yo'. |I went to the
+  hospital because I was sick
+il   Hu cho'gue pot hagu. |I did it on account of you
+.hw   pot
+df   by--as in measurement
+il   Dos pot dos. |Two by two
+il   Sinko pot dosse. |Five by twelve
+.hw   pot ayu
+df   for that (away from speaker and addressee)
+il   Pot ayu i chinago'-$na na cha'-mu humahanao. |Because of the long
+  distance, you shouldn't go
+.hw   pot enao
+df   for that (to addressee)
+il   Pot enao na rason na ya-hu hao. |For that reason I like you
+.hw   pot este
+df   for this
+il   Pot este i minaolek-$na na bai hu konsidera gue'. |For this
+  goodness of his, I will consider him
+.hw   pot fabot
+df   *please
+.hw   pot fin
+wc   2
+df   *finally, at *last
+.hw   pot hafa
+df   *why, for *what, *what for
+cf   sa' hafa
+il   Pot hafa na ti matto hao nigap? |Why didn't you come yesterday?
+.hw   pot i hemplo
+df   for *example, instance serving for illustration
+.hw   pot i si$nat
+wc   2
+df   sign of *cross, make a sign of a cross
+al   pot si$nat
+.hw   pot ke motibu
+wc   2
+df   *why, what is your reason
+il   Pot ke motibu na ti matto hao? |Why didn't you come?
+.hw   pot uttimo
+df   *eventually, *ultimately, at the very end
+cf   alosuttimo, gi uttimo
+.hw   potbos
+wc   2
+df   *powder, talcum powder, *dust, a medicinal, cosmetic, or other
+  preparation in the form of fine particles
+.hw   p/otbula
+wc   2
+df   gun *powder
+cf   kaiako'
+.hw   potbusi
+wc   1
+df   to powder, apply cosmetic powder, sprinkle with powder, use
+  cosmetic powder
+.hw   potdak
+df   see &poddak
+.hw   potfia
+wc   1
+df   *persist, *persevere, be steadfast, maintain one's efforts,
+  unyielding, pursue relentlessly
+al   potfiha
+il   Hu potfia kumefahan i kareta. |I persisted in trying to buy the
+  car
+.hw   potga
+wc   1,2
+df   *purge, *purgative, *cathartic--taken usually for worms, laxative
+.hw   potgada
+wc   2
+df   *inch, one-twelth of a foot
+.hw   potgadas
+wc   2
+df   *inches
+.hw   potgas
+wc   2
+df   *mite, animalcule midge, arachnids (order acarina)
+cf   gutgohu
+.hw   potgas
+wc   2
+df   *flea
+.hw   potgatoriu
+wc   2
+df   *purgatory
+.hw   potgue
+wc   1
+df   *pluck (feathers), remove hair by plucking, remove stickerburr
+  off clothes, or the like
+.hw   potkeria
+wc   2
+df   *filth, filthy act or word, worthless object, junk
+.hw   potlilu
+wc   2
+df   *decayed, *rotten, easily broken or torn
+il   Potlilu i hayon i gima'. |The wood of the building was rotten
+.hw   potne
+wc   1
+df   *burn, *destroy by fire
+al   pohne|. (S) Also &songge
+.hw   potno
+df   *instead of, in place of
+cf   enlugat di
+il   Potno bai hu kahulo' gi ta'chong-hu, na'i yo' fan magi ni chipa.
+  |Instead of my getting up from my seat, please give me the cigarette
+.hw   p/otpopot
+wc   2
+df   type of *plant-peperomia pellucida; a type of grass
+.hw   potpot
+wc   2
+df   *thick, *dense, having or being of relatively great depth or
+  extent from one surface to its opposite, not thin
+.hw   potpot palao'an
+wc   2
+df   type of *plant-peperomia spp. (?)
+.hw   potsan
+wc   2
+df   *protruding, sticking out
+.hw   potseras
+wc   2
+df   *bracelet, arm ring
+.hw   potso
+wc   2
+df   *sharpshooter--in playing marbles, good *shooter, *marksman
+.hw   potso
+wc   2
+df   *heartbeat, *pulse
+.hw   potsuelu
+wc   2
+df   *cup
+al   pusuelu
+.hw   potta
+wc   2
+df   *door, *entrance, *passageway
+.hw   pottamuneda
+wc   2
+df   *purse, *wallet
+.hw   potto
+wc   1
+df   cause *jilting--from one's lover, *pull seedling--from its place,
+  *uproot seedling, take someone's sweetheart away, dig up seedling.
+  (S)
+al   pokto
+.hw   potu
+wc   2
+df   *rice cake, *rice pudding
+.hw   poya
+wc   2
+df   *hen (young)
+.hw   po'yet
+wc   2
+df   *midget, *diminutive, extremely small in size
+cf   che'che', chibe', dichicheng
+.hw   poyu
+wc   2
+df   *cock (young)
+.hw   praktika
+wc   1
+df   *practice, *apply, put into application, exercise
+il   Hu praktika umusa i tiningo'-hu gi che'cho'-hu. |I applied my
+  knowledge in my work
+.hw   praktikante
+wc   2
+df   *practitioner, *doctor, *physician
+cf   mediku, dokto
+.hw   praktik/at
+wc   2
+df   *practical
+.hw   praktiku
+wc   2
+df   *skilled, *experienced
+.hw   predika
+wc   1
+df   *predict, *forecast, foretell the future
+il   Hu predika na para u maolek i tiempo pa'go. |I predict that there
+  will be fair weather today
+.hw   predikamento
+wc   2
+df   *predicament, *crisis, *problem--serious, dilemma
+.hw   preferable
+wc   2
+df   *preferable, to be preferred
+.hw   premisias
+wc   2
+df   *premises
+.hw   premiu
+wc   2
+df   *prize, *reward, *award
+.hw   prenda
+wc   1,2
+df   give gift to sweetheart as a sign of engagement; *gift (to
+  sweetheart), *token
+.hw   prende
+wc   1
+df   *fasten, *clasp, *pleat, attach, hold something together by
+  sewing up
+il   Prende i litratu kontra i liga. |Fasten the picture against the
+  wall
+.hw   prendiente
+wc   2
+df   *permanent, immovable, stationary
+al   pendiente
+cf   petmamente
+.hw   prensa
+wc   1,2
+df   *iron (clothes), smooth with an iron; *iron
+cf   asienta
+.hw   prepar/ao
+wc   2
+df   *prepared, ready for
+il   Esta yo' preparao. |I am prepared
+.hw   preparasi/on
+wc   2
+df   *preparation
+.hw   presa
+wc   2
+df   *press--as a printing press
+.hw   presemida
+wc   2
+df   *unfriendly, *discourteous, arrogant
+al   presemidu
+cf   mata'pang
+.hw   presenta
+wc   1
+df   *present, perform, act, *introduce, *give
+.hw   presente
+wc   2
+df   *present, *present time, the *time being, the way it stands now
+.hw   presidente
+wc   2
+df   *president, chief executive, head of government
+.hw   presiosu
+wc   2
+df   *precious, *valuable, of high value, dear, of great value
+.hw   presiu
+wc   2
+df   *price, *value
+.hw   presonidu
+wc   2
+df   arrogant person, *proud
+.hw   presta
+wc   1
+df   *borrow--for consumption purposes with an intention of paying
+  back, opposite of lend
+cf   ayao
+il   Hu presta un boteyan sirasime' gi bisinu. |I borrowed a bottle of
+  salad oil from the neighbor
+.hw   presu
+wc   2
+df   *prison, jail, dungeon
+cf   kalabosu, tribunat
+.hw   presuneru
+wc   2
+df   *prisoner (m)
+al   presunera| (f)
+.hw   pretendiente
+wc   2
+df   *suitor, bachelor who is courting and seeking the hand of a
+  fiancee
+.hw   pretina
+wc   2
+df   *waistband--of trousers or skirt
+.hw   pribeni
+wc   1
+df   *provide, *furnish
+al   pribiene
+il   Hu pribeniyi i lahi-hu magagu yan lepblo para umeskuela. |I
+  provided clothes and books for my son to go to school
+.hw   pribensi/on
+wc   2
+df   provisions, supplies
+al   probension
+.hw   pribi
+wc   1
+df   *prohibit, *restrict, *forbid, hinder, deny, disallow
+al   pruibi
+.hw   pribidu
+wc   2
+df   *prohibited, *restricted, *off limits, not allowed, forbidden
+al   pruibidu
+.hw   pribilehu
+wc   2
+df   *privilege, right or immunity granted as a peculiar advantage or
+  favor, personal right
+.hw   prifekto
+wc   2
+df   *perfect, *exactly, *precisely, *accurately, in an exact manner
+al   perfekto
+.hw   priferi
+wc   2
+df   *prefer
+.hw   prikura
+wc   1
+df   *preserve in, *persist in, put more effort, *hurry, remain fixed
+  in
+al   prokura
+cf   usuni, potfiha
+il   Hu prikura i che'cho'-hu. |I persevered in my work
+.hw   prima
+wc   2
+df   *cousin (f); used also as form of direct address
+.hw   primerisa
+wc   2
+df   first *born, *primogeniture
+.hw   primeru
+wc   2
+df   *first (m), *best, first time
+al   primera| (f)
+cf   primet, fine'na
+il   I primeru na premiu, boti. |The first prize is a boat
+il   Guahu i primeru na makinista. |I am the best mechanic
+.hw   prim/et
+wc   2
+df   *first, first time
+cf   primeru, primera, fine'na
+il   Este na guihan i primet na kinenne'-hu. |This is the first fish I
+  have caught
+.hw   primienta
+wc   2
+df   *pepper
+al   plimenta
+.hw   primu
+wc   2
+df   *cousin (m)
+.hw   prinemeti
+wc   2
+df   *vow, *assurance, *oath, *pledge, *promise
+cf   prometi, promesa
+.hw   prinsesa
+wc   2
+df   *princess
+.hw   prinsip/at
+wc   2
+df   *main, *primary, *principal, chief, leading, first
+.hw   prinsip/at
+wc   2
+df   *capital--monetary, the principal of an investment
+.hw   prinsipatmente
+wc   2
+df   *principally, mainly
+.hw   prinsipi
+wc   2
+df   *prince
+.hw   prinsipiu
+wc   2
+df   *first, *origin, commencement, *beginning
+.hw   pripara
+wc   1
+df   *prepare, make ready
+.hw   prisi/on
+wc   2
+df   prison
+al   presu
+.hw   prisisu
+wc   2
+df   *urgent, *necessary, *essential, indispensable, inevitable, vital
+cf   nisisario, impottante
+.hw   pritende
+wc   1
+df   *pretend, *feign, *sham, make believe
+cf   kado', fa'-
+il   Hu pritende na kabayu yo'. |I pretended to be a horse
+.hw   pritoliu
+wc   2
+df   *petroleum, *kerosene. (R)
+al   petroliu
+.hw   proa
+wc   2
+df   *bow, front part of boat
+il   Falak mo'na gi proa. |Go to the bow
+.hw   probecho
+wc   2
+df   *benefit
+il   Gai probecho hao. |You have some benefit
+.hw   probechosu
+wc   2
+df   *benefiting, benefited, benefacting
+il   Probechosu i konggresu i resolusion-$na para i pupbliku. |The
+  congress' resolution is benefiting to the public
+.hw   probensia
+wc   2
+df   *province
+.hw   probensi/on
+wc   2
+df   *provisions, *supplies
+al   pribension
+.hw   probidu
+wc   2
+df   forbidden, *prohibit
+al   pruibidu
+.hw   problema
+wc   2
+df   *problem, question proposed for solution
+cf   estotbo, katgueti, inkombinensia
+.hw   produkto
+wc   2
+df   *product, *produce, *yield
+.hw   produsi
+wc   1
+df   *produce
+.hw   pr/ofesias
+wc   2
+df   *prophecy
+.hw   profes/ot
+wc   2
+df   *professor, *professional, instructor, teacher (m)
+al   professora |(f)
+.hw   profeta
+wc   2
+df   *wise man, *prophet, *seer, one who phophesies future events
+.hw   profisiente
+wc   2
+df   *proficient, *adept, *versed. (S)
+cf   kapas
+.hw   programa
+wc   2
+df   *program, *drama, *performance, *proclamation
+.hw   progresu
+wc   2
+df   *progress, *improvement, *advancement
+cf   adelanto, kinalamten
+.hw   prohibi
+wc   1
+df   *ban, *prohibit, *forbid
+.hw   prohibisi/on
+wc   2
+df   *prohibition, *forbiddance, restriction
+.hw   pr/ohimu
+wc   2
+df   *fellow, *fellow man, *comrade, neighbor, companion
+.hw   proklama
+wc   1
+df   *proclaim, *declare, *publicize, assert openly, announce, publish
+cf   deklara
+.hw   prokura
+wc   1
+df   *procure; see &prikura
+.hw   promesa
+wc   1,2
+df   *pledge, *promise, *vow
+.hw   prometi
+wc   1
+df   *promise, *pledge, *vow, *assure, guarantee
+cf   prinemeti, promesa
+.hw   promisu
+wc   1
+df   *promise
+al   prometi
+.hw   prononsasi/on
+wc   2
+df   *pronunciation
+.hw   pronunsia
+wc   1
+df   *pronounce, *articulate
+.hw   propela
+wc   2
+df   *propeller
+.hw   propied/at
+wc   2
+df   *property, real *estate, *estate, *dominions, claim
+.hw   propiu
+wc   2
+df   *proper, *specific, *exact, *particular
+cf   pattikulat, espisifiku, eksakto
+.hw   proponi
+wc   1
+df   *resolve, *prepare
+cf   pripara
+.hw   proposisi/on
+wc   2
+df   *proposition
+.hw   prop/ositu
+wc   2
+df   *purposely, *aim, intent
+il   Ti ya-hu pumeska propositu yanggen napu i tasi. |I don't like to
+  fish especially when the water is rough
+.hw   propotsi/on
+wc   2
+df   *proportion
+.hw   protehi
+wc   1
+df   *protect, *defend, *guard, *shield
+cf   guatdia, difende
+.hw   proteksi/on
+wc   2
+df   *protection
+.hw   protekt/ot
+wc   2
+df   *protector, *defender, *guardian
+.hw   protesta
+wc   1,2
+df   *protest, *renounce, *remonstrate; *protest, *renunciation,
+  *remonstration
+.hw   protestante
+wc   2
+df   *protestant
+.hw   protestasi/on
+wc   2
+df   *protestation
+.hw   prueba
+wc   1,2
+df   *prove, *proof
+al   preba
+.hw   pruebasi/on
+wc   2
+df   *proof, *evidence
+il   Un pruebasion para bai hu sangan pot este. |I will tell one piece
+  of evidence about this
+.hw   pruibi
+wc   1
+df   *prohibit, *forbid
+al   pribi
+.hw   pruibidu
+wc   2
+df   *prohibited, *restricted
+al   pribidu
+.hw   puchu
+wc   2
+df   *pouch, *sack, receptacle, container, small bag. (S)
+al   kostat
+.hw   puchu
+wc   2
+df   *economical, *thrifty
+.hw   pudeng
+wc   2
+df   *pudding, rennet custard
+.hw   pudera
+df   *wish, *hope, should have
+al   pudiera
+cf   mohon
+il   Pudera u uchan pa'go. |I wish it would rain today
+il   Pudera un fahan meggai nu enao sa' baratu. |I wish you had bought
+  a lot because they are cheap
+.hw   pud/et
+wc   2
+df   have *authority, be capable, be able, *power
+.hw   pudiera
+df   see &pudera
+.hw   pudos
+wc   2
+df   *hemorrhoid, *tag-along, one who follows people all the time
+  (slang)
+.hw   puedi
+df   *maybe, *perhaps (contrary to fact), *hope to, *wish to, *chance
+  of
+il   Puedi mangganna yo' premiu. |Perhaps I may win a prize
+il   Puedi humanao yo' agupa' asta Guam. |There is a chance of my
+  going to Guam tomorrow
+.hw   puengi
+wc   2
+df   *night
+.hw   pues
+df   *then, *afterward, *hereafter
+al   despues
+.hw   pues po'lo
+df   *well then
+cf   po'lo ya
+.hw   puesto
+wc   2
+df   *territory, *place, private property
+.hw   puetka
+wc   2
+df   *sow (with litter), female pig
+.hw   puetkasita
+wc   2
+df   young *pig, *shoat, *gilt, shote (f)
+.hw   puetto
+wc   2
+df   *harbor, *channel, *port
+.hw   puga'
+wc   1
+df   *open (wide)--with force, *spread apart--anything joined
+  together, rip widely open
+il   Ta puga' i dama'gas i ayuyu. |We ripped open the claws of the
+  coconut crab
+.hw   pugao
+wc   1
+df   cause to *scatter, to scatter a group, flock, herd, school of
+  fish, etc
+il   Hu pugao i inetnon fanihi gi halom tano'. |I scattered the group
+  of bats in the woods
+.hw   pugas
+wc   2
+df   uncooked *rice
+.hw   pugi
+wc   1,2
+df   to *lure, *entice; *decoy, *lure
+.hw   pugua'
+wc   2
+df   type of *plant-areca catechu; *betel nut palm
+.hw   pugua' China
+wc   2
+df   type of *plant-veitchia merrillii; manila *palm, white *betel
+.hw   pugua' machena
+wc   2
+df   type of *plant-davallia solida; a type of bush
+.hw   puha
+wc   1,2
+df   *capsize, *turn over
+cf   alenken|. *Mound
+.hw   puhot
+wc   1
+df   to *press--into a ball by pressing palms of hands together, as in
+  making a rice ball, snowball, etc
+cf   afuyot
+il   Hu puhot i inai ni kannai-hu. |I pressed the sand into a ball
+  with my hands
+.hw   pula'
+wc   1
+df   *untie, *unwrap, unfold, unravel, *translate
+il   Hu pula' i sapatos-hu. |I took off my shoes
+il   Ha pula' gue' si Maria. |Maria got undressed
+il   Hu pula' i estoria. |I translated the story
+.hw   pulakes < >
+wc   1
+df   *peel, *unwrap, *open up
+il   Hu pulakes i masa na chada'. |I peeled the hard-boiled egg
+.hw   pulakes < >
+df   used in idiomatic expression
+il   Ombre un pulakes hao. |Oh, you are cracking me up
+.hw   pulan
+wc   1
+df   *watch over, keep *guard, *guard
+il   Hu pulan i oru. |I watched over the gold
+.hw   pulan
+wc   2
+df   *moon, eye of *cateye shell
+.hw   pulan
+wc   2
+df   type of *fish-megalops cyprinoides. (Family elopidae) tarpons
+zb   *tarpon
+.hw   pulattat < >
+wc   2
+df   type of *bird-gallinula chloropus guami; gallinule
+zb   *gallinule, common coot, black-bellied plover
+.hw   pulattat < >
+wc   2
+df   type of *bird-fulica atra atra; common coot
+zb   *common coot
+.hw   pulattat < >
+wc   2
+df   type of *bird-squatorola squatarola; black-bellied plover
+zb   *plover--black bellied
+.hw   pulon ga'ga'
+wc   2
+df   *fur, hair of animals
+.hw   pulon tengho
+wc   2
+df   *mane
+.hw   pulonnon
+wc   2
+df   type of *fish-family balistidae; trigger fish
+zb   *trigger fish--any of the variety of trigger fishes
+.hw   pulonnon attilong
+wc   2
+df   type of *fish-family balistidae; black trigger fish
+zb   black *trigger fish
+.hw   pulonnon lagu
+wc   2
+df   type of *fish-rhinecanthus rectangulus. (Family balistidae);
+  *trigger fish
+zb   *trigger fish
+.hw   pulonnon sasadu
+wc   2
+df   type of *fish-balistoides viridescens (family balistidae); type
+  of *fish-pseudobalistes flavomarginatus (family balistidae); trigger
+  fish
+zb   *trigger fish
+.hw   pulos
+wc   2
+df   type of *fish-strongylura gigantea (belonidae); needlefish
+zb   *needlefish
+.hw   pulu
+wc   2
+df   *feather, *hair
+.hw   pumada
+wc   2
+df   *pomade
+.hw   pumalu < >
+wc   2
+df   *some, *things--other
+cf   palu
+.hw   pumara
+wc   2
+df   *pause, stop for a moment
+.hw   pumaya'ya' < >
+wc   2
+df   *adrift, floating at random
+.hw   pumeska
+wc   1
+df   go *fishing, *hunting
+il   Pumeska yo' guihan. |I went fishing
+il   Mameska ham giya Susupe. |We went fishing at Susupe
+.hw   pum/os
+wc   2
+df   *pose. (G)
+.hw   punche
+wc   2
+df   mixed *drink--whiskey, milk, sugar stirred, similar to egg-nog
+  mixed with whiskey
+cf   flamenko
+.hw   puni
+wc   1
+df   *deny, *contradict, gainsay
+cf   $Nega
+il   Ma puni na ti ma li'e' i sakke. |They denied that they saw the
+  thief
+.hw   punidera
+wc   2
+df   *hen (chicken)
+.hw   puno'
+wc   1
+df   *kill, *murder, *slay, assassinate, *shut off, *turn off,
+  *extinguish, execute
+cf   digueya
+il   Hu puno' i kandet. |I turned off the light
+il   Ta puno' i guaka. |We killed the cow
+.hw   puno' guafi
+wc   2
+df   fire *extinguisher
+cf   puno' kimason
+.hw   puno' kimas/on
+wc   2
+df   fire *extinguisher
+cf   puno' guafi
+.hw   puno' lalo'
+wc   2
+df   *fly swatter, *insect spray, *fly killer
+cf   panak lalo'
+.hw   punot
+wc   2
+df   husk of *coconut, coconut *husk
+.hw   puns/on
+wc   2
+df   *punch, *counter-sink
+il   Umechong i punson anai hu acha ni mattiyu. |The punch was crooked
+  when I hit it with a hammer
+.hw   punta
+wc   2
+df   *point, *end--of long object, *peak, *fore
+.hw   puntada
+wc   2
+df   *stitch
+.hw   punto
+wc   2
+df   *period, decimal point
+.hw   punto
+wc   2
+df   *point, unit of scoring, etc., mark, score
+.hw   punto
+wc   2
+df   *point, *motive, *objective, cause, reason, substance, end
+  towards which effort is directed
+.hw   punu'on
+wc   2
+df   *guilty, deserving of punishment or scolding
+cf   puno', lalatdiyon
+.hw   pu$n/at
+wc   2
+df   *dagger, hunting knife
+.hw   pu$neta
+df   *expletive (mild), term of mild abuse when used in addressing
+  someone
+.hw   pu$nu
+wc   2
+df   *handful
+il   Ma na'i yo' un pu$nu na kande. |They gave me a handful of candy
+.hw   pupblika
+wc   1
+df   *publicize, *propagate, make known, promulgate, spread word of,
+  bring to public, *advertise
+cf   na'matungo'
+.hw   pupbliku
+wc   2
+df   *public, the general body of mankind, or of a nation, state, or
+  community
+.hw   pupon
+wc   2
+df   *group of, *bunch of, gathering of
+al   pinipon
+il   Tumohge i katu gi halom pupon otdot. |The cat stood in a group of
+  ants
+il   Guaha pupon sasata gi uriyan guma'. |There is a bunch of bees
+  around the house
+.hw   pupong
+wc   2
+df   *ridge (of a roof), peak of roof
+al   pipong
+.hw   pupuenge
+wc   2
+df   *evening
+.hw   pupulon aniti
+wc   2
+df   type of *plant-piper guahamensis
+zb   *piper guahamensis
+.hw   pupulu
+wc   2
+df   type of *plant-piper betel
+zb   *betel pepper
+.hw   purifika
+wc   1
+df   *purify
+.hw   puru
+df   *all, *entirely, wholly
+cf   todu, entieru
+il   Puru lapes este. |These are all pencils
+il   Puru Amerikanu siha. |They are all Americans
+.hw   pusada
+wc   2
+df   *curve--in road
+cf   birada
+.hw   pusisi/on
+wc   2
+df   *position, *location, *job, *occupation
+il   Hafa na pusision malago'-mu? |What position do you want? %Gaige
+  yo' guini na pusision. |I'm at this location
+.hw   puspus
+wc   1,2
+df   *coitus, sexual intercourse--to have (taboo)
+cf   dalle, sirek, kichi, baggai
+.hw   puspus
+wc   2
+df   *corn--ground and toasted, and cooked in chicken or beef broth
+.hw   pusuelu
+wc   2
+df   *cup
+cf   tasa
+.hw   puta
+wc   2
+df   *whore, *prostitute
+cf   laputa
+.hw   puta'
+wc   1
+df   *split, *cleave, *burst
+.hw   putahi
+wc   2
+df   *serving, helping, a portion of food
+.hw   puten matan Saipan
+wc   2
+df   *trachoma
+cf   bayila'
+.hw   puteng
+wc   2
+df   type of *plant-barringtonia asiatica; a type of tree, used for
+  poisoning fish
+.hw   puti
+wc   2
+df   *hurt, *pain, *ache
+.hw   puti tainobiu
+wc   2
+df   type of *flower; bougainvillaea
+zb   *bougainvillaea
+.hw   puti'on
+wc   2
+df   *star
+cf   estreyas
+.hw   puti'on chatanmak
+wc   2
+df   *star--north, *star--morning
+cf   luseru
+.hw   putot
+wc   2
+df   *mortar and pestle, used to pound herbs into pulp
+.hw   p/utpitu
+wc   2
+df   *pulpit, turret
+il   Na'gasgas i putpitu. |Clean the pulpit
+.hw   puyitos
+wc   2
+df   *chick, baby chicken
