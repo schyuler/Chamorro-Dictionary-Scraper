@@ -5947,7 +5947,8 @@ cf   maskara
 wc   2
 df   type of *fish-polydactylus sexfilis (family polynemidae);
   threadfins
-zb   *threadfin; cf. ti'ao, sakmoneti
+zb   *threadfin;
+cf   ti'ao, sakmoneti
 .hw   bukayu
 wc   2
 df   *coconut candy--made of sugar and grated coconut after oil has
@@ -5961,7 +5962,8 @@ df   *valve--of innertube, where air is put in
 .hw   bula
 wc   2
 df   *much, *plenty, *lots of, *full
-il   Bula i tasi. |High tide. Cf. &Lahyan, meggai|
+il   Bula i tasi. |High tide. 
+cf   &Lahyan, meggai|
 .hw   bulacheru
 wc   2
 df   *drunkard, *tippler

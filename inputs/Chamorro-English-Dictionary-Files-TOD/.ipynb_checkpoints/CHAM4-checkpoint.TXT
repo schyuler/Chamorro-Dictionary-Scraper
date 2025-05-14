@@ -4,8 +4,7 @@ df   *k--letter
 df   *have something (prefix)--usually prefixed to a modifier; stress
   falls on %ka-| in affixed form, *there is
 il   Kao guaha kamaolek gi gima'-mu? |Do you have something good at
-  your house?
-il   Kala$na i magagu-hu. |I have some oil on my clothes
+  your house? %Kala$na i magagu-hu. |I have some oil on my clothes
 il   Kafache' i chalan. |There is mud on the road
 .hw   kabales
 wc   2
@@ -961,10 +960,9 @@ wc   2
 df   *horn (of animal), *gore, *antler
 .hw   kao
 df   *question marker (general)
-il   Kao para un hanao? |Are you going?
-il   Kao bula i tasi pa'go? |Is it  a high tide now? 
-il   Kao guaha gima'-mu? |Do you have a house?
-il   Kao  guaha nai malak Hawaii hao? |Have you been to Hawaii?
+il   Kao para un hanao? |Are you going? %Kao bula i tasi pa'go? |Is it
+  a high tide now? %Kao guaha gima'-mu? |Do you have a house? %Kao
+  guaha nai malak Hawaii hao? |Have you been to Hawaii?
 .hw   kaohao
 wc   2
 df   storage *chest, *box, esp. for safekeeping of possessions
@@ -1820,7 +1818,8 @@ cf   batchigo'
 df   *nickname for Joaquin
 .hw   kinahet na kulot
 wc   2
-df   *orangeish, containing orange color. Kahet |plus %-in-. | (R)
+df   *orangeish, containing orange color
+il   Kahet |plus %-in-. | (R)
 .hw   kinahulo'
 wc   2
 df   *score, points--number of, record of points made by competitors
@@ -1968,8 +1967,8 @@ df   *class--as in school
 .hw   klasi
 wc   2
 df   *type, *kind, *class, *sort, *variety, nature, character
-il   Hafa na klasi ya-mu. |What kind do you like?
-il   Este na klasi malago'-hu. |This is the kind I wanted
+il   Hafa na klasi ya-mu. |What kind do you like? %Este na klasi
+  malago'-hu. |This is the kind I wanted
 .hw   klasifika
 wc   1
 df   *classify, categorize, catalogue
@@ -3027,9 +3026,8 @@ il   Kuando beses chetnudan lao ti mamasga. |Many times he had an
   injury but he never learned his lesson
 .hw   kuanto
 df   *how many; *how much; usually followed by %na
-il   Kuanto bi'ahi? |How many times?
-il   Kuanto bali-$na? |How much does it cost?
-il   Kuanto na chada' kinanno'-mu? |How many eggs did you eat?
+il   Kuanto bi'ahi? |How many times? %Kuanto bali-$na? |How much does
+  it cost? %Kuanto na chada' kinanno'-mu? |How many eggs did you eat?
 .hw   kuanto antes
 df   *ahead
 il   Hu pripara i che'cho'-hu kuanto antes. |I prepared my work ahead
@@ -3039,8 +3037,7 @@ il   Kuanto antes na hu chocho'gue este para hagu ya taya' hafa
   didn't say anything
 .hw   kuantos
 df   *how long, used with time expressions
-il   Kuantos tiempo? |How long?
-il   Kuantos a$nos hao? |How old are you?
+il   Kuantos tiempo? |How long? %Kuantos a$nos hao? |How old are you?
 .hw   kuarenta
 wc   2
 df   *forty
@@ -3713,22 +3710,15 @@ df   *hurry, *hurried, *fast, *quick
 cf   guse', sahyao, alula
 .hw   lah/at- < >
 df   denotes comparative degree (distance)
-il   Lahattaya. |Farther south.
-cf   &Haya.
-il   Lahattichan. |Farther west.
-cf   &Luchan
-il   Lahattilo'. |Farther up, higher
-cf   &Hulo'
-il   Lahattalom. |Farther in. 
-cf   &Halom
-il   Lahatfe'na. |Farther front. 
-cf   &Mo'na
-il   Lahattatte. |Farther back. 
-cf   &Tatte. |*Further--a little,
+il   Lahattaya. |Farther south. Cf. &Haya. Lahattichan. |Farther west.
+  Cf. &Luchan
+il   Lahattilo'. |Farther up, higher. Cf. &Hulo'
+il   Lahattalom. |Farther in. Cf. &Halom
+il   Lahatfe'na. |Farther front. Cf. &Mo'na
+il   Lahattatte. |Farther back. Cf. &Tatte. |*Further--a little,
   *more--a little, further--a little bit, more--a little bit, a
-  combination of two prefixes (la- a little (bit), and %hat-
-  further or more.)
-cf   &Lage'-|
+  combination of two prefixes, %la- |a little (bit), and %hat-
+  |further or more. Cf. &Lage'-|
 .hw   lahen < >
 wc   2
 df   *son of, *man of
@@ -4198,10 +4188,8 @@ df   *queen
 al   raraina
 .hw   las < >
 df   *particle--used in telling time (same as %alas|)
-il   Las kuatro, |Four o'clock
-il   Alas kuatro, |Four o'clock
-il   La una |One o'clock
-il   Ala una, |One o'clock
+il   Las kuatro, |Four o'clock, or %Alas kuatro, |Four o'clock
+il   La una |One o'clock, or %Ala una, |One o'clock
 .hw   lasa < >
 wc   1
 df   *massage, rub, as in massaging
@@ -4607,7 +4595,8 @@ df   *linen
 al   linu
 .hw   li'e'on
 wc   1
-df   *visible, can be seen. Li'e' plus %-on (abilitative suffix)
+df   *visible, can be seen
+il   Li'e' |plus %-on |(abilitative suffix)
 .hw   lifet
 wc   2
 df   slink away, creep away
@@ -6916,8 +6905,7 @@ il   Ya-hu i masa na papaya. |I like ripe papaya
 .hw   masahalom < >
 wc   2
 df   *perspire, *sweat, *perspiration; lit
-il   masa |'ripe'
-il   halom |'inside'
+il   masa |'ripe' %halom |'inside'
 .hw   masahegat
 wc   2
 df   *muscular
@@ -7228,12 +7216,11 @@ cf   dakngas
 .hw   matgan
 wc   2
 df   come off, *pop off, come out, as a fruit falling off a tree, a
-  button from a shirt, a handle off a suitcase. Contracted form of
-  %matugan.
+  button from a shirt, a handle off a suitcase
 cf   ma'teng
 il   Matgan i batunes gi chinina-hu. |The button popped off my shirt
-il   Matgan i nifen-hu. |My tooth came out. 
-cf   &Tugan
+il   Matgan i nifen-hu. |My tooth came out. Contracted form of
+  %matugan. |Cf. &Tugan|
 .hw   matgua'
 wc   2
 df   term used in game of batu when the stick is knocked down
@@ -8499,8 +8486,8 @@ wc   2
 df   *not--in an either-or situation; *no, when declining something
   offered, *don't (imperative)
 cf   cha'-mu, ahe'
-il   Kao para un hanao pat munga hao? |Are you going or not?
-il   Munga  humanao gi gima'. |Don't leave the house
+il   Kao para un hanao pat munga hao? |Are you going or not? %Munga
+  humanao gi gima'. |Don't leave the house
 .hw   muraya
 wc   2
 df   *rampart, surrounding wall

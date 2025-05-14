@@ -241,7 +241,7 @@ df   common *sense
 wc   2
 df   have a person, possesed by a spirit
 il   Metgot si Juan sa' gaitaotao. |Juan is strong because he is
-  possessed by the evil spirit (%taotaomo'na)
+  possessed by the evil spirit (%taotaomo'na|)
 il   Gaitaotao si Rosa. |Rosa has a man
 il   Gaitaotao si Juan gi finakpo' lukao. |Juan had people at his
   house after the procession
@@ -1276,9 +1276,8 @@ cf   guatu
 .hw   guaha < >
 wc   2
 df   *have, *there is, *there exists
-il   Kao guaha chipa-mu. |Do you have a cigarette?
-il   Guaha meggai na kareta giya Garapan. |There are many cars in Garapan. 
-cf   &Gai|
+il   Kao guaha chipa-mu. |Do you have a cigarette? %Guaha meggai na
+  kareta giya Garapan. |There are many cars in Garapan. Cf. &Gai|
 .hw   guaha id/at
 df   be of *age, *mature, meet the age requirement, (generally used
   with the possessive pronouns); lit. have age
@@ -1850,9 +1849,8 @@ wc   2
 df   see &a'ef
 .hw   hafa
 df   *what, question word; also used in common greetings
-il   Hafa tatatmanu hao? |How are you? 
-il   Hafa este? |What is this?
-il   Hafa ilek-mu? |What did you say?
+il   Hafa tatatmanu hao? |How are you? %Hafa este? |What is this?
+  %Hafa ilek-mu? |What did you say?
 .hw   hafa dai
 df   *hello (informal greeting)
 al   hafa dei
@@ -1861,9 +1859,9 @@ df   *hello (informal greeting)
 al   hafa dai
 .hw   hafa na klasi
 df   *what kind
-il   Hafa na klasi ya-mu? |What kind do you like?
-il   Hafa na klasi gimen-mu? |What kind is your drink?
-il   Hafa na klasen kareta kareta-mu? |What kind of car is your car?
+il   Hafa na klasi ya-mu? |What kind do you like? %Hafa na klasi
+  gimen-mu? |What kind is your drink? %Hafa na klasen kareta
+  kareta-mu? |What kind of car is your car?
 .hw   hafa taimanu
 df   *how (question word)
 .hw   h/afalagu < >
@@ -1903,8 +1901,7 @@ al   hafno'
 cf   bula
 .hw   haf$nak < >
 wc   2.DF Very *fertile (female), highly *reproductive (mammal),
-    esp. human being.
-cf   &Hafa$nagu|
+    esp. human being. Cf. &Hafa$nagu|
 .hw   hafot
 wc   1
 df   *bury
@@ -2089,8 +2086,7 @@ wc   2
 df   type of *eel-gymnothorax meleagris (family muraenidae); moray
   eel; also echidna nebulosa and echidna zebra
 zb   *moray eel--brown with spots except on the belly; general  term
-  for smaller eels in Saipan; 
-cf   &$Notak, titugi
+  for smaller eels in Saipan; cf. &$Notak, titugi
 .hw   hakmang kulales
 wc   2
 df   type of *eel-elaps (genus myrichthys)
@@ -2330,9 +2326,9 @@ il   Hanon kannai-hu. |My hand was burned
 wc   1
 df   *purpose--of being in a place, reason for being someplace
 il   Hafa hinangai-mu gi espitat? |What was your purpose for being at
-  the hospital?
-il   Hafa un hangai gi lancho-ku? |What was your reason for being at my ranch?
-il   Guaha hinangai-hu gi gima'-mu. |There was a reason for being at your house
+  the hospital? %Hafa un hangai gi lancho-ku? |What was your reason
+  for being at my ranch? %Guaha hinangai-hu gi gima'-mu. |There was a
+  reason for being at your house
 .hw   hangon
 wc   2
 df   type of *fish-naso lituratus (family acanthuridae); surgeon
@@ -2536,8 +2532,7 @@ zb   *parrot fish--bluish with hump on the forehead, smaller  than
   atuhong
 .hw   hayi
 df   *who (question word)
-il   Hayi na'an-mu? |What is your name?
-il   Hayi enao? |Who is that?
+il   Hayi na'an-mu? |What is your name? %Hayi enao? |Who is that?
 .hw   hayi ha'
 wc   2
 df   *whoever
@@ -2616,8 +2611,8 @@ il   Mathenio
 wc   1
 df   *get, *obtain
 il   Hu hentan as Francisco. |I got it from Frank
-il   Manu nai un hentan enao? |Where did you get that? 
-il   Hinentan-hu gi bundak. |I got it in the forest
+il   Manu nai un hentan enao? |Where did you get that? %Hinentan-hu gi
+  bundak. |I got it in the forest
 .hw   hentra
 wc   1
 df   *mention, make known, speak of, inform, discuss, refer to
@@ -2872,8 +2867,8 @@ df   type of *plant-hippobroma longiflora
 .hw   hiya'
 df   *again, *temporarily, for a short while (idiomatic)
 il   Munga hiya'. |Don't do it again
-il   Hayi na'an-mu hiya'? |What's your name again?
-il   Fata'chong hiya'. |Sit down for a short while
+il   Hayi na'an-mu hiya'? |What's your name again? %Fata'chong hiya'.
+  |Sit down for a short while
 .hw   hiyok
 wc   2
 df   type of *fish-family acanthuridae
@@ -3872,8 +3867,8 @@ cf   kalumnia
 df   *this (demonstrative pronoun); archaic form now mostly replaced
   by %este
 cf   este, guini
-il   Hafa ini? |What is this? 
-il   Saga ini gi gima'-hu. |Stay here at my  house
+il   Hafa ini? |What is this? %Saga ini gi gima'-hu. |Stay here at my
+  house
 .hw   /inifok
 wc   2
 df   type of *plant-chrysopogon aciculatus; type of *grass, *burr,

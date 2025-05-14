@@ -6351,7 +6351,8 @@
   "bukadutse": {
     "wc": "2",
     "df": "type of fish-polydactylus sexfilis (family polynemidae);\n  threadfins",
-    "zb": "threadfin; cf. ti'ao, sakmoneti"
+    "zb": "threadfin;",
+    "cf": "ti'ao, sakmoneti"
   },
   "bukayu": {
     "wc": "2",
@@ -6368,7 +6369,8 @@
   "bula": {
     "wc": "2",
     "df": "much, plenty, lots of, full",
-    "il": "Bula i tasi. |High tide. Cf. &Lahyan, meggai|"
+    "il": "Bula i tasi. |High tide.",
+    "cf": "&Lahyan, meggai|"
   },
   "bulacheru": {
     "wc": "2",
@@ -7114,8 +7116,8 @@
     "df": "smiley, smile easily or often"
   },
   "chatguahu": {
-    "df": "i am not feeling well; lit. not very myself",
-    "il": "Chat |plus guahu|. Nausea. Cf. &Chatguiya|"
+    "df": "i am not feeling well; lit. not very myself Chat |plus guahu|. Nausea.",
+    "cf": "&Chatguiya|"
   },
   "chatguaiya": {
     "wc": "1",
@@ -7361,7 +7363,7 @@
   },
   "chi-": {
     "df": "how far, to what extent, limit, boundary",
-    "il": "Hafa chi-mu gi eskuela? |How far did you go in school? Hafa\n  chi-mu gi tinaitai-mu? |How far did you read? Manu chi-ña i\n  tano'-mu? |Where is the boundary of your property?|"
+    "il": "Hafa chi-mu gi eskuela? |How far did you go in school?; Hafa chi-mu gi tinaitai-mu? |How far did you read?; Manu chi-ña i tano'-mu? |Where is the boundary of your property?"
   },
   "Chian": {
     "df": "nickname for Lucia"
@@ -8054,7 +8056,7 @@
   "daigo'": {
     "wc": "2",
     "df": "turnip--preserved",
-    "cf": "daikon|. Cf. &Takuang"
+    "cf": "daikon|.; &Takuang"
   },
   "daikon": {
     "wc": "2",
@@ -8091,7 +8093,8 @@
   "dalak": {
     "wc": "1",
     "df": "accompany, escort, follow",
-    "il": "Hu dalak i palao'an. |I accompanied the girl. Cf. &Dalalak|"
+    "il": "Hu dalak i palao'an. |I accompanied the girl.",
+    "cf": "&Dalalak|"
   },
   "dalaki": {
     "wc": "1",
@@ -9882,7 +9885,8 @@
   "draiba": {
     "wc": "1,2",
     "df": "drive--by steering the course of a vehicle by mechanical means;\n  driver, operator",
-    "il": "Hu draiba i sidan asta i espitat. |I drove the sedan to the\n  hospital; I draiba ha na'despasio i kareta papa' gi ekso'. |The driver\n  slowed the car down the hill. Cf. &Sugon|"
+    "il": "Hu draiba i sidan asta i espitat. |I drove the sedan to the\n  hospital; I draiba ha na'despasio i kareta papa' gi ekso'. |The driver\n  slowed the car down the hill.",
+    "cf": "&Sugon|"
   },
   "dreya": {
     "wc": "1,2",
@@ -11280,7 +11284,7 @@
   "este": {
     "df": "this (demonstrative)",
     "cf": "ayu",
-    "il": "Hafa este? |What is this? Guaguan este na lepblo. |This book is\n  expensive"
+    "il": "Hafa este? |What is this?; Guaguan este na lepblo. |This book is expensive"
   },
   "este ha'": {
     "df": "this is all, this is it, all there is--the thing close to the\n  speaker",
@@ -11975,7 +11979,7 @@
   "fa'la'mon": {
     "wc": "1",
     "df": "hoard, keep to oneself",
-    "il": "Ha fa'la'mon gue' ni atulai. |He hoarded all of the atulai |to\n  himself"
+    "il": "Ha fa'la'mon gue' ni atulai. |He hoarded all of the atulai to himself"
   },
   "fa'lasuyi": {
     "wc": "1",
@@ -12851,7 +12855,7 @@
     "wc": "2",
     "df": "first, first time, be first,",
     "cf": "primet, primeru, primera",
-    "il": "Hayi fine'na magi? |Who was here first? Guahu fine'na magi. |I\n  was here first"
+    "il": "Hayi fine'na magi? |Who was here first?; Guahu fine'na magi. |I was here first"
   },
   "finene'na": {
     "wc": "2",
@@ -13686,7 +13690,7 @@
   "gaitaotao": {
     "wc": "2",
     "df": "have a person, possesed by a spirit",
-    "il": "Metgot si Juan sa' gaitaotao. |Juan is strong because he is\n  possessed by the evil spirit (taotaomo'na|); Gaitaotao si Rosa. |Rosa has a man; Gaitaotao si Juan gi finakpo' lukao. |Juan had people at his\n  house after the procession"
+    "il": "Metgot si Juan sa' gaitaotao. |Juan is strong because he is\n  possessed by the evil spirit (taotaomo'na); Gaitaotao si Rosa. |Rosa has a man; Gaitaotao si Juan gi finakpo' lukao. |Juan had people at his\n  house after the procession"
   },
   "gake'": {
     "wc": "2",
@@ -14780,7 +14784,8 @@
   "guaha": {
     "wc": "2",
     "df": "have, there is, there exists",
-    "il": "Kao guaha chipa-mu. |Do you have a cigarette? Guaha meggai na\n  kareta giya Garapan. |There are many cars in Garapan. Cf. &Gai|"
+    "il": "Kao guaha chipa-mu. |Do you have a cigarette?; Guaha meggai na kareta giya Garapan. |There are many cars in Garapan.",
+    "cf": "&Gai|"
   },
   "guaha idat": {
     "df": "be of age, mature, meet the age requirement, (generally used\n  with the possessive pronouns); lit. have age\nal   gai idat"
@@ -15360,7 +15365,7 @@
   },
   "hafa": {
     "df": "what, question word; also used in common greetings",
-    "il": "Hafa tatatmanu hao? |How are you? Hafa este? |What is this?\n  Hafa ilek-mu? |What did you say?"
+    "il": "Hafa tatatmanu hao? |How are you?; Hafa este? |What is this?; Hafa ilek-mu? |What did you say?"
   },
   "hafa dai": {
     "df": "hello (informal greeting)\nal   hafa dei"
@@ -15370,7 +15375,7 @@
   },
   "hafa na klasi": {
     "df": "what kind",
-    "il": "Hafa na klasi ya-mu? |What kind do you like? Hafa na klasi\n  gimen-mu? |What kind is your drink? Hafa na klasen kareta\n  kareta-mu? |What kind of car is your car?"
+    "il": "Hafa na klasi ya-mu? |What kind do you like?; Hafa na klasi gimen-mu? |What kind is your drink?; Hafa na klasen kareta kareta-mu? |What kind of car is your car?"
   },
   "hafa taimanu": {
     "df": "how (question word)"
@@ -15410,7 +15415,8 @@
     "cf": "bula"
   },
   "hafñak": {
-    "wc": "2.DF Very fertile (female), highly reproductive (mammal),\n    esp. human being. Cf. &Hafañagu|"
+    "wc": "2.DF Very fertile (female), highly reproductive (mammal),\n    esp. human being.",
+    "cf": "&Hafañagu|"
   },
   "hafot": {
     "wc": "1",
@@ -15612,7 +15618,8 @@
   "hakmang": {
     "wc": "2",
     "df": "type of eel-gymnothorax meleagris (family muraenidae); moray\n  eel; also echidna nebulosa and echidna zebra",
-    "zb": "moray eel--brown with spots except on the belly; general  term\n  for smaller eels in Saipan; cf. &$Notak, titugi"
+    "zb": "moray eel--brown with spots except on the belly; general  term\n  for smaller eels in Saipan;",
+    "cf": "&$Notak, titugi"
   },
   "hakmang kulales": {
     "wc": "2",
@@ -15860,7 +15867,7 @@
   "hangai": {
     "wc": "1",
     "df": "purpose--of being in a place, reason for being someplace",
-    "il": "Hafa hinangai-mu gi espitat? |What was your purpose for being at\n  the hospital? Hafa un hangai gi lancho-ku? |What was your reason\n  for being at my ranch? Guaha hinangai-hu gi gima'-mu. |There was a\n  reason for being at your house"
+    "il": "Hafa hinangai-mu gi espitat? |What was your purpose for being at\n  the hospital?; Hafa un hangai gi lancho-ku? |What was your reason for being at my ranch?; Guaha hinangai-hu gi gima'-mu. |There was a reason for being at your house"
   },
   "hangon": {
     "wc": "2",
@@ -16059,7 +16066,7 @@
   },
   "hayi": {
     "df": "who (question word)",
-    "il": "Hayi na'an-mu? |What is your name? Hayi enao? |Who is that?"
+    "il": "Hayi na'an-mu? |What is your name?; Hayi enao? |Who is that?"
   },
   "hayi ha'": {
     "wc": "2",
@@ -16136,7 +16143,7 @@
   "hentan": {
     "wc": "1",
     "df": "get, obtain",
-    "il": "Hu hentan as Francisco. |I got it from Frank; Manu nai un hentan enao? |Where did you get that? Hinentan-hu gi\n  bundak. |I got it in the forest"
+    "il": "Hu hentan as Francisco. |I got it from Frank; Manu nai un hentan enao? |Where did you get that?; Hinentan-hu gi bundak. |I got it in the forest"
   },
   "hentra": {
     "wc": "1",
@@ -16413,7 +16420,7 @@
   },
   "hiya'": {
     "df": "again, temporarily, for a short while (idiomatic)",
-    "il": "Munga hiya'. |Don't do it again; Hayi na'an-mu hiya'? |What's your name again? Fata'chong hiya'.\n  |Sit down for a short while"
+    "il": "Munga hiya'. |Don't do it again; Hayi na'an-mu hiya'? |What's your name again?; Fata'chong hiya'. |Sit down for a short while"
   },
   "hiyok": {
     "wc": "2",
@@ -17524,7 +17531,7 @@
   "ini": {
     "df": "this (demonstrative pronoun); archaic form now mostly replaced\n  by este",
     "cf": "este, guini",
-    "il": "Hafa ini? |What is this? Saga ini gi gima'-hu. |Stay here at my\n  house"
+    "il": "Hafa ini? |What is this?; Saga ini gi gima'-hu. |Stay here at my  house"
   },
   "inifok": {
     "wc": "2",
@@ -17914,7 +17921,7 @@
   },
   "ka-": {
     "df": "have something (prefix)--usually prefixed to a modifier; stress\n  falls on ka-| in affixed form, there is",
-    "il": "Kao guaha kamaolek gi gima'-mu? |Do you have something good at\n  your house? Kalaña i magagu-hu. |I have some oil on my clothes; Kafache' i chalan. |There is mud on the road"
+    "il": "Kao guaha kamaolek gi gima'-mu? |Do you have something good at\n  your house?; Kalaña i magagu-hu. |I have some oil on my clothes; Kafache' i chalan. |There is mud on the road"
   },
   "kabales": {
     "wc": "2",
@@ -18977,7 +18984,7 @@
   },
   "kao": {
     "df": "question marker (general)",
-    "il": "Kao para un hanao? |Are you going? Kao bula i tasi pa'go? |Is it\n  a high tide now? Kao guaha gima'-mu? |Do you have a house? Kao\n  guaha nai malak Hawaii hao? |Have you been to Hawaii?"
+    "il": "Kao para un hanao? |Are you going?; Kao bula i tasi pa'go? |Is it  a high tide now?; Kao guaha gima'-mu? |Do you have a house?; Kao  guaha nai malak Hawaii hao? |Have you been to Hawaii?"
   },
   "kaohao": {
     "wc": "2",
@@ -19903,8 +19910,7 @@
   },
   "kinahet na kulot": {
     "wc": "2",
-    "df": "orangeish, containing orange color",
-    "il": "Kahet |plus -in-. | (R)"
+    "df": "orangeish, containing orange color. Kahet |plus -in-. | (R)"
   },
   "kinahulo'": {
     "wc": "2",
@@ -20063,7 +20069,7 @@
   "klasi": {
     "wc": "2",
     "df": "type, kind, class, sort, variety, nature, character",
-    "il": "Hafa na klasi ya-mu. |What kind do you like? Este na klasi\n  malago'-hu. |This is the kind I wanted"
+    "il": "Hafa na klasi ya-mu. |What kind do you like?; Este na klasi malago'-hu. |This is the kind I wanted"
   },
   "klasifika": {
     "wc": "1",
@@ -21207,7 +21213,7 @@
   },
   "kuanto": {
     "df": "how many; how much; usually followed by na",
-    "il": "Kuanto bi'ahi? |How many times? Kuanto bali-ña? |How much does\n  it cost? Kuanto na chada' kinanno'-mu? |How many eggs did you eat?"
+    "il": "Kuanto bi'ahi? |How many times?; Kuanto bali-ña? |How much does it cost?; Kuanto na chada' kinanno'-mu? |How many eggs did you eat?"
   },
   "kuanto antes": {
     "df": "ahead",
@@ -21215,7 +21221,7 @@
   },
   "kuantos": {
     "df": "how long, used with time expressions",
-    "il": "Kuantos tiempo? |How long? Kuantos a$nos hao? |How old are you?"
+    "il": "Kuantos tiempo? |How long?; Kuantos a$nos hao? |How old are you?"
   },
   "kuarenta": {
     "wc": "2",
@@ -21911,7 +21917,8 @@
   },
   "lahat-": {
     "df": "denotes comparative degree (distance)",
-    "il": "Lahattaya. |Farther south. Cf. &Haya. Lahattichan. |Farther west.\n  Cf. &Luchan; Lahattilo'. |Farther up, higher. Cf. &Hulo'; Lahattalom. |Farther in. Cf. &Halom; Lahatfe'na. |Farther front. Cf. &Mo'na; Lahattatte. |Farther back. Cf. &Tatte. |Further--a little,\n  more--a little, further--a little bit, more--a little bit, a\n  combination of two prefixes, la- |a little (bit), and hat-\n  |further or more. Cf. &Lage'-|"
+    "il": "Lahattaya. |Farther south.; Lahattichan. |Farther west.; Lahattilo'. |Farther up, higher; Lahattalom. |Farther in.; Lahatfe'na. |Farther front.; Lahattatte. |Farther back.",
+    "cf": "&Haya.; &Luchan; &Hulo'; &Halom; &Mo'na; &Tatte. |Further--a little,\n  more--a little, further--a little bit, more--a little bit, a\n  combination of two prefixes (la- a little (bit), and hat-\n  further or more.); &Lage'-|"
   },
   "lahen": {
     "wc": "2",
@@ -22355,7 +22362,7 @@
   },
   "las": {
     "df": "particle--used in telling time (same as alas|)",
-    "il": "Las kuatro, |Four o'clock, or Alas kuatro, |Four o'clock; La una |One o'clock, or Ala una, |One o'clock"
+    "il": "Las kuatro, |Four o'clock; Alas kuatro, |Four o'clock; La una |One o'clock; Ala una, |One o'clock"
   },
   "lasa": {
     "wc": "1",
@@ -22800,8 +22807,7 @@
   },
   "li'e'on": {
     "wc": "1",
-    "df": "visible, can be seen",
-    "il": "Li'e' |plus -on |(abilitative suffix)"
+    "df": "visible, can be seen. Li'e' plus -on (abilitative suffix)"
   },
   "lifet": {
     "wc": "2",
@@ -25303,7 +25309,7 @@
   "masahalom": {
     "wc": "2",
     "df": "perspire, sweat, perspiration; lit",
-    "il": "masa |'ripe' halom |'inside'"
+    "il": "masa |'ripe'; halom |'inside'"
   },
   "masahegat": {
     "wc": "2",
@@ -25612,9 +25618,9 @@
   },
   "matgan": {
     "wc": "2",
-    "df": "come off, pop off, come out, as a fruit falling off a tree, a\n  button from a shirt, a handle off a suitcase",
-    "cf": "ma'teng",
-    "il": "Matgan i batunes gi chinina-hu. |The button popped off my shirt; Matgan i nifen-hu. |My tooth came out. Contracted form of\n  matugan. |Cf. &Tugan|"
+    "df": "come off, pop off, come out, as a fruit falling off a tree, a\n  button from a shirt, a handle off a suitcase. Contracted form of\n  matugan.",
+    "cf": "ma'teng; &Tugan",
+    "il": "Matgan i batunes gi chinina-hu. |The button popped off my shirt; Matgan i nifen-hu. |My tooth came out."
   },
   "matgua'": {
     "wc": "2",
@@ -27009,7 +27015,7 @@
     "wc": "2",
     "df": "not--in an either-or situation; no, when declining something\n  offered, don't (imperative)",
     "cf": "cha'-mu, ahe'",
-    "il": "Kao para un hanao pat munga hao? |Are you going or not? Munga\n  humanao gi gima'. |Don't leave the house"
+    "il": "Kao para un hanao pat munga hao? |Are you going or not?; Munga  humanao gi gima'. |Don't leave the house"
   },
   "muraya": {
     "wc": "2",
@@ -27511,8 +27517,8 @@
     "il": "Hu na'i i patgon ga'-ña ga'lagu. |I gave the boy a pet dog"
   },
   "nai": {
-    "df": "where (relative), when (relative)",
-    "il": "I gima' amigu-hu nai sumaga yo'. |It was my friend's house where\n  I stayed; Mananaitai-yo' estoria nai hu li'e' i aksidente. |I was reading a\n  story when I saw the accident. Also linking particle used with\n  question words manu| and ngai'an|; Manu nai sumasaga hao? |Where do you live? Ngai'an nai humanao\n  hao? |When did you go?"
+    "df": "where (relative), when (relative) Also linking particle used with question words manu| and ngai'an|",
+    "il": "I gima' amigu-hu nai sumaga yo'. |It was my friend's house where\n  I stayed; Mananaitai-yo' estoria nai hu li'e' i aksidente. |I was reading a\n  story when I saw the accident.; Manu nai sumasaga hao? |Where do you live?; Ngai'an nai humanao hao? |When did you go?"
   },
   "na'i patte": {
     "df": "impart, give a share, give notice"
@@ -28399,7 +28405,7 @@
   },
   "no": {
     "df": "yes, in rhetorical question",
-    "il": "Ya-mu no humanao para Hawaii? |You like to go to Hawaii, yes? Un\n  espiha gue', no? |You looked for him, yes?"
+    "il": "Ya-mu no humanao para Hawaii? |You like to go to Hawaii, yes?; Un espiha gue', no? |You looked for him, yes?"
   },
   "nobena": {
     "wc": "2",
@@ -29363,7 +29369,7 @@
   "otro": {
     "wc": "2",
     "df": "other, else, different, additional, another",
-    "il": "Kao guaha otro ta'lo? |Is there another one? Hafa otro? |What\n  else is there? I otro na lahi. |The other man"
+    "il": "Kao guaha otro ta'lo? |Is there another one?; Hafa otro? |What else is there?; I otro na lahi. |The other man"
   },
   "otro na mes": {
     "wc": "2",
@@ -29693,7 +29699,7 @@
   "pakpak": {
     "wc": "2",
     "df": "blistered, exploded, pop, burst forth with sudden violence and\n  noise, explosion, blister, clap (hands), clatter, boom",
-    "il": "Pakpak i kannai-hu anai humugando yo' boleng. |My hand blistered\n  when I went bowling; Kao un hungok i pakpak? |Did you hear the explosion? Hu\n  na'pakpak i kannai-hu. |I clapped my hands"
+    "il": "Pakpak i kannai-hu anai humugando yo' boleng. |My hand blistered\n  when I went bowling; Kao un hungok i pakpak? |Did you hear the explosion?; Hu na'pakpak i kannai-hu. |I clapped my hands"
   },
   "paksiu": {
     "wc": "1,2",
@@ -32501,7 +32507,7 @@
   "pusision": {
     "wc": "2",
     "df": "position, location, job, occupation",
-    "il": "Hafa na pusision malago'-mu? |What position do you want? Gaige\n  yo' guini na pusision. |I'm at this location"
+    "il": "Hafa na pusision malago'-mu? |What position do you want?; Gaige yo' guini na pusision. |I'm at this location"
   },
   "puspus": {
     "wc": "2",
@@ -35810,8 +35816,8 @@
     "il": "Sume' i batde. |The bucket leaks; Hu na'sume' i batde. |I made the bucket leak; Guaha dankolo na sume' gi batde. |There is a big leak in the\n  bucket"
   },
   "sumen": {
-    "df": "see &sen",
-    "il": "Sen |plus infix -um-. Sumen bunita i palao'an. |The girl became\n  very pretty"
+    "df": "see &sen Sen |plus infix -um-.",
+    "il": "Sumen bunita i palao'an. |The girl became\n  very pretty"
   },
   "sumigen": {
     "wc": "2",
@@ -36353,7 +36359,7 @@
   },
   "taimanu": {
     "df": "how (question word); also used with hafa |with same meaning",
-    "il": "Hafa taimanu? |How to do it? Taimanu mafattinas-ña i ahu? |How\n  do you make ahu?"
+    "il": "Hafa taimanu? |How to do it?"
   },
   "taiminagof": {
     "wc": "2",
@@ -37210,7 +37216,7 @@
   "tehnan": {
     "wc": "2",
     "df": "leftover, what else, remaining, left",
-    "il": "Hafa tehnan hao? |What else have you? Hafa tehnan? |What is\n  left?"
+    "il": "Hafa tehnan hao? |What else have you?; Hafa tehnan? |What is left?"
   },
   "te'i": {
     "wc": "2",

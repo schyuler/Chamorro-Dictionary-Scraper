@@ -409,13 +409,14 @@ df   *give, *deliver, *provide, *donate, bestow without a return,
   focus particle')
 il   Hu na'i i patgon ga'-$na ga'lagu. |I gave the boy a pet dog
 .hw   nai
-df   *where (relative), *when (relative) Also linking particle used with question words %manu| and %ngai'an|
+df   *where (relative), *when (relative)
 il   I gima' amigu-hu nai sumaga yo'. |It was my friend's house where
   I stayed
 il   Mananaitai-yo' estoria nai hu li'e' i aksidente. |I was reading a
-  story when I saw the accident. 
-il   Manu nai sumasaga hao? |Where do you live?
-il   Ngai'an nai humanao hao? |When did you go?
+  story when I saw the accident. Also linking particle used with
+  question words %manu| and %ngai'an|
+il   Manu nai sumasaga hao? |Where do you live? %Ngai'an nai humanao
+  hao? |When did you go?
 .hw   na'i patte
 df   *impart, give a share, give notice
 .hw   na'i prenda
@@ -1231,8 +1232,8 @@ wc   2
 df   *coconut--having sweet husk, milk, etc. while still green
 .hw   no
 df   *yes, in rhetorical question
-il   Ya-mu no humanao para Hawaii? |You like to go to Hawaii, yes?
-il   Un espiha gue', no? |You looked for him, yes?
+il   Ya-mu no humanao para Hawaii? |You like to go to Hawaii, yes? %Un
+  espiha gue', no? |You looked for him, yes?
 .hw   nobena
 wc   2
 df   *novena, *devotion
@@ -2141,9 +2142,8 @@ df   *ashes--from burned tobacco, *butt--from cigarette or cigar
 .hw   otro
 wc   2
 df   *other, *else, *different, *additional, *another
-il   Kao guaha otro ta'lo? |Is there another one?
-il   Hafa otro? |What else is there?
-il   I otro na lahi. |The other man
+il   Kao guaha otro ta'lo? |Is there another one? %Hafa otro? |What
+  else is there? %I otro na lahi. |The other man
 .hw   otro na mes
 wc   2
 df   next *month, coming month
@@ -2436,8 +2436,8 @@ df   *blistered, *exploded, *pop, burst forth with sudden violence and
   noise, *explosion, *blister, *clap (hands), *clatter, *boom
 il   Pakpak i kannai-hu anai humugando yo' boleng. |My hand blistered
   when I went bowling
-il   Kao un hungok i pakpak? |Did you hear the explosion?
-il   Hu na'pakpak i kannai-hu. |I clapped my hands
+il   Kao un hungok i pakpak? |Did you hear the explosion? %Hu
+  na'pakpak i kannai-hu. |I clapped my hands
 .hw   paksi/u
 wc   1,2
 df   type of *food--pork or fish cooked in lard, water, and vinegar
@@ -5089,8 +5089,8 @@ cf   birada
 .hw   pusisi/on
 wc   2
 df   *position, *location, *job, *occupation
-il   Hafa na pusision malago'-mu? |What position do you want?
-il   Gaige yo' guini na pusision. |I'm at this location
+il   Hafa na pusision malago'-mu? |What position do you want? %Gaige
+  yo' guini na pusision. |I'm at this location
 .hw   puspus
 wc   1,2
 df   *coitus, sexual intercourse--to have (taboo)

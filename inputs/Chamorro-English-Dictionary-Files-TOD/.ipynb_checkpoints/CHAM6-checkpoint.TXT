@@ -3002,8 +3002,8 @@ il   Hu na'sume' i batde. |I made the bucket leak
 il   Guaha dankolo na sume' gi batde. |There is a big leak in the
   bucket
 .hw   sumen
-df   see &sen Sen |plus infix %-um-. 
-il   Sumen bunita i palao'an. |The girl became
+df   see &sen
+il   Sen |plus infix %-um-. Sumen bunita i palao'an. |The girl became
   very pretty
 .hw   sumigen
 wc   2
@@ -3502,8 +3502,7 @@ wc   2
 df   *unstained, without blemish
 .hw   taimanu < >
 df   *how (question word); also used with %hafa |with same meaning
-il   Hafa taimanu? |How to do it?
-iln   Taimanu mafattinas-$na i ahu? |How
+il   Hafa taimanu? |How to do it? %Taimanu mafattinas-$na i ahu? |How
   do you make ahu?
 .hw   t/aiminagof
 wc   2
@@ -4363,8 +4362,8 @@ df   *tile, *shingle--for roofing
 .hw   tehnan
 wc   2
 df   *leftover, what else, remaining, left
-il   Hafa tehnan hao? |What else have you?
-il   Hafa tehnan? |What is left?
+il   Hafa tehnan hao? |What else have you? %Hafa tehnan? |What is
+  left?
 .hw   te'i
 wc   2
 df   *sprinkle (of water), scattered shower
